@@ -42,4 +42,4 @@ Estimates from our system will be used to in providing young people and their fa
  
  17. and lastly we deploy and interpret our model 
  
- N.B: the list aove is not exhaustive, its subject to modifications and corrections
+ N.B: the list above is not exhaustive, its subject to modifications and corrections
