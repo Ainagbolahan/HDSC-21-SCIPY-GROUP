@@ -1,0 +1,801 @@
+Rank,NameCountry/Region,Overall,Teaching,Research,Citations,Industry Income,International Outlook
+1,California Institute of TechnologyUnited StatesCoursesEnquireAdmissions Support,95.2,95.6,97.6,99.8,97.8,64
+2,University of OxfordUnited KingdomCoursesEnquireAdmissions Support,94.2,86.5,98.9,98.8,73.1,94.4
+3,Stanford UniversityUnited StatesCoursesExplore,93.9,92.5,96.2,99.9,63.3,76.3
+4,University of CambridgeUnited KingdomCoursesEnquireAdmissions Support,92.8,88.2,96.7,97,55,91.5
+5,Massachusetts Institute of TechnologyUnited StatesCoursesEnquireAdmissions Support,92,89.4,88.6,99.7,95.4,84
+6,Harvard UniversityUnited StatesCoursesEnquireAdmissions Support,91.6,83.6,99,99.8,45.2,77.2
+7,Princeton UniversityUnited StatesCoursesEnquireAdmissions Support,90.1,85.1,91.9,99.3,52.1,78.5
+8,Imperial College LondonUnited KingdomCoursesEnquireAdmissions Support,89.1,83.3,88.5,96.7,53.7,96
+9,ETH ZurichSwitzerlandCourses,88.3,77,95,91.1,80,97.9
+10,The University of ChicagoUnited StatesCoursesExplore,87.9,85.7,88.9,99.2,36.6,65
+11,Johns Hopkins UniversityUnited StatesCoursesEnquireAdmissions Support,87.6,77.6,90.4,98.2,100,70
+12,Yale UniversityUnited StatesCoursesEnquireAdmissions Support,87.4,86.5,87.8,97.2,43.3,64.3
+13,"University of California, BerkeleyUnited StatesCoursesEnquireAdmissions Support",87.2,80.4,91.1,99.7,47.9,61.9
+14,UCLUnited KingdomCoursesEnquireAdmissions Support,87.1,78.1,91,94.2,40.5,94.4
+15,Columbia UniversityUnited StatesCoursesEnquireAdmissions Support,86.1,85.9,82.2,98.1,-,73.5
+16,"University of California, Los AngelesUnited StatesCoursesEnquireAdmissions Support",85.8,80.8,88.6,98.5,47.9,56.4
+17,University of PennsylvaniaUnited StatesCoursesEnquireAdmissions Support,85.2,82,86.9,98.6,47.9,49.5
+18,Cornell UniversityUnited StatesCoursesEnquireAdmissions Support,84,77.9,86.1,97.2,33.7,63.9
+19,University of TorontoCanadaCoursesEnquireExplore,83.9,75.9,89.3,90.9,49.1,77.8
+20,Duke UniversityUnited StatesCoursesEnquireAdmissions Support,82.7,76,78,99,100,56.5
+21,University of Michigan-Ann ArborUnited StatesCoursesEnquireAdmissions Support,82.4,76.8,85.2,94.4,56.3,53.7
+22,Carnegie Mellon UniversityUnited StatesCoursesEnquireAdmissions Support,82.3,67.4,88.8,99.1,57.5,57.1
+23,London School of Economics and Political ScienceUnited KingdomCoursesEnquireAdmissions Support,81.3,69.8,80.6,94.3,32.2,93.6
+24,University of EdinburghUnited KingdomCoursesEnquireAdmissions Support,80.3,68.6,77.2,96.3,36.1,89.8
+25,Northwestern UniversityUnited StatesCoursesEnquireAdmissions Support,79.5,69.8,78.4,96.5,81.2,53.9
+26,National University of SingaporeSingaporeCoursesExplore,79.2,71.7,84.5,79.4,49.8,96.2
+27,King’s College LondonUnited KingdomCoursesAdmissions Support,78.2,64.5,75.8,93.8,40.1,93.8
+28,Karolinska InstituteSwedenCoursesVerify Documents,77.5,60.6,81.1,92.2,75.8,73.1
+29,LMU MunichGermanyCoursesExplore,77.3,70.5,77.4,85.7,100,62.8
+30,New York UniversityUnited StatesCoursesEnquireAdmissions Support,77.2,74.7,72.3,95.3,30.4,49.3
+31,École Polytechnique Fédérale de LausanneSwitzerlandCourses,76.1,61.3,67.5,94.6,65.4,98.6
+32,University of WashingtonUnited StatesCoursesEnquireAdmissions Support,75.6,67.1,70,98.6,43.1,51.2
+33,University of MelbourneAustraliaCoursesEnquire,75.4,62,75.5,86.6,64.6,87.1
+34,University of British ColumbiaCanadaCoursesEnquire,75.3,60.2,73.2,91.5,42.6,90.5
+35,KU LeuvenBelgiumCoursesExplore,74.8,59.9,76.9,87.3,100,68.6
+36,University of Illinois at Urbana-ChampaignUnited StatesCoursesEnquireAdmissions Support,74.5,64.5,81.2,86.8,52.8,45.8
+37,Heidelberg UniversityGermanyCourses,74.4,68.8,69.6,88.2,68.2,62.8
+38,McGill UniversityCanadaCoursesEnquire,72.6,66.1,72.1,78.9,40.3,85.5
+39,"University of California, San DiegoUnited StatesCoursesEnquireAdmissions Support",72.2,56.9,69.8,98.7,56.7,42.9
+40,"University of California, Santa BarbaraUnited StatesCoursesEnquireAdmissions Support",72.2,52.6,66,99.2,90.4,61.5
+41,Georgia Institute of TechnologyUnited StatesCoursesEnquireAdmissions Support,72.1,57.8,72.7,86,73.7,71.5
+42,Peking UniversityChinaCoursesExplore,72,77.8,72.4,69.1,100,49.2
+43,The University of TokyoJapanCourses,71.1,81.4,83,60.9,50.8,30.3
+44,"University of California, DavisUnited StatesCoursesEnquireAdmissions Support",71,60.1,72.7,84.3,57.3,58.4
+45,University of Hong KongHong KongCoursesExplore,71,64.6,72.8,70.1,53.7,99.5
+46,University of Texas at AustinUnited StatesCoursesEnquireAdmissions Support,70.3,59.3,69.7,92.2,63.1,31.7
+47,Tsinghua UniversityChinaCoursesExplore,70,73.3,83,58.8,100,39.5
+48,Wageningen University & ResearchNetherlandsCourses,70,52.6,66.9,87.8,100,70.3
+49,Humboldt University of BerlinGermanyCourses,69.9,63.7,77,73.6,36.1,62.6
+50,University of Wisconsin-MadisonUnited StatesCoursesEnquireAdmissions Support,69.7,65.1,68.2,86.6,48.5,33
+51,Brown UniversityUnited StatesCoursesEnquireAdmissions Support,69.6,62.8,55.7,96.4,31.4,57.8
+52,Australian National UniversityAustraliaCoursesEnquire,69.5,54.7,77.3,72.3,48,93.3
+53,Technical University of MunichGermanyCoursesVerify Documents,69.4,61,66,80.1,99.2,63.8
+54,École Normale SupérieureFranceCourses,69,70.6,47.7,87.1,37.1,85.5
+55,"Nanyang Technological University, SingaporeSingaporeCoursesExplore",68.2,48.4,61.3,85.6,99.9,94.6
+56,University of ManchesterUnited KingdomCoursesEnquireExplore,68.1,58.4,66,77.3,42,87
+57,University of SydneyAustraliaCourses,68.1,54.3,68.1,77.5,72.4,84.4
+58,University of AmsterdamNetherlandsCoursesExplore,67.8,52.2,64.7,87.4,62.8,66.5
+59,The Hong Kong University of Science and TechnologyHong KongCoursesExplore,67.2,49.4,66.1,82.6,68.1,80.5
+60,The University of QueenslandAustraliaCoursesExplore,67,49.2,62.8,82.4,76.7,89.3
+61,Washington University in St LouisUnited StatesCoursesExplore,67,54.3,55.6,99.2,33.5,44.9
+62,Utrecht UniversityNetherlandsCoursesExplore,66.6,48.1,64.3,88.1,89.1,55.8
+63,University of North Carolina at Chapel HillUnited StatesCoursesEnquireAdmissions Support,66.4,58,54.5,95.9,39.4,39
+64,Boston UniversityUnited StatesCoursesEnquireAdmissions Support,66.1,57.8,49.5,97.7,30.3,51
+65,Delft University of TechnologyNetherlandsCoursesVerify Documents,65.9,55,73.8,61.5,100,84
+66,University of MinnesotaUnited StatesCoursesEnquire,65.9,53.5,61,88,98.5,35.3
+67,Leiden UniversityNetherlandsCoursesExplore,65.7,50.5,63.1,85.2,49.8,64.3
+68,University of Southern CaliforniaUnited StatesCoursesEnquireAdmissions Support,65.5,49.3,58.9,93,38,56.3
+69,University of BristolUnited KingdomCoursesAdmissions Support,64.3,47.6,51.6,91.2,40,82.4
+70,Durham UniversityUnited KingdomCoursesEnquireAdmissions Support,63.6,47.9,51.9,87.7,34.4,86.4
+71,Erasmus University RotterdamNetherlandsCoursesExplore,63.5,37.2,55.2,95.6,54.6,76.1
+72,Free University of BerlinGermanyCoursesVerify Documents,63.2,57.9,72.2,60.2,35.1,69.2
+73,Monash UniversityAustraliaCoursesEnquire,62.8,48.3,59.1,73.3,82.5,87.6
+74,University of GroningenNetherlandsCoursesExplore,62.4,43.3,56.9,84,92.4,63.9
+75,Penn State (Main campus)United StatesCoursesEnquire,62.3,50.4,61.9,80.5,56.2,40.8
+76,University of GlasgowUnited KingdomCoursesExplore,61.9,41.6,48.3,92.3,31.6,85.8
+77,University of HelsinkiFinlandCourses,61.9,48.4,60.4,82.1,31.6,51.8
+78,University of TübingenGermanyCoursesVerify Documents,61.7,47,59.8,79.3,59.2,58.2
+79,University of Pittsburgh-Pittsburgh campusUnited StatesCoursesEnquireAdmissions Support,61.5,50.6,50.3,92.3,39.3,33.9
+80,University of WarwickUnited KingdomCoursesEnquireAdmissions Support,61.3,47.4,53.1,78.2,37.7,90.3
+81,Uppsala UniversitySwedenCoursesVerify Documents,61.2,44.1,61,80.9,39.5,59.6
+82,University of CopenhagenDenmarkCourses,61,49.8,42.7,86.2,45,83.3
+83,UNSW SydneyAustraliaCoursesExplore,61,40.7,53.9,82.1,50,89.5
+84,University of FreiburgGermanyCourses,60.7,47.4,51.1,80.5,100,60.3
+85,Seoul National UniversitySouth KoreaCourses,60.5,66.5,70.5,50,85.4,30.9
+86,University of St AndrewsUnited KingdomCoursesEnquireAdmissions Support,60.4,49.7,47.3,78.8,30.6,92.3
+87,Vanderbilt UniversityUnited StatesCoursesEnquireAdmissions Support,60.1,47.8,44.2,95.7,63.2,29.1
+88,Kyoto UniversityJapanCourses,59.9,70.6,69.3,46.6,79,26.1
+89,Maastricht UniversityNetherlandsCoursesExplore,59.9,37.5,47.7,82.7,95.4,95.5
+90,Emory UniversityUnited StatesCoursesEnquireAdmissions Support,59.7,48.3,37.1,96.7,48.9,51
+91,Lund UniversitySwedenCoursesVerify Documents,59.7,39.7,53.6,81.3,70.4,74.1
+92,Ohio State University (Main campus)United StatesCoursesEnquire,59.7,51.6,46.6,83.2,53.1,53
+93,University of ExeterUnited KingdomCoursesExplore,59.5,39.4,40,94.3,31.9,87.3
+94,University of BonnGermanyCoursesVerify Documents,58.8,45.1,47.5,85.3,-,63.6
+95,Georgetown UniversityUnited StatesCoursesEnquireAdmissions Support,58.8,54.4,39.3,82.5,80.7,52.7
+96,McMaster UniversityCanadaCoursesExplore,58.8,39.8,44.8,84.9,88,76.1
+97,University of SheffieldUnited KingdomCoursesEnquire,58.6,42.4,48.8,80.1,43.4,81.9
+98,Queen Mary University of LondonUnited KingdomCourses,58.5,34.1,41.3,93.3,36.8,93.5
+99,University of GöttingenGermanyCoursesVerify Documents,58,49.3,54.5,72.7,31.8,56.4
+100,Michigan State UniversityUnited StatesCoursesEnquire,58,47.3,52.6,76.8,32.2,56.4
+101,University of BaselSwitzerlandCourses,57.9,39.5,33.1,88.3,99.9,94.7
+102,École PolytechniqueFranceCoursesExplore,57.9,53.5,44.6,64.7,82.3,92.8
+103,Rice UniversityUnited StatesCoursesEnquireAdmissions Support,57.9,37.9,35.1,99.7,41.7,66.6
+104,Trinity College DublinIrelandCoursesExplore,57.9,45.5,46.2,75.8,32.8,90.8
+105,Dartmouth CollegeUnited StatesCoursesEnquireAdmissions Support,57.8,50.7,35.8,93.3,40.8,38.3
+106,University of ZurichSwitzerlandCourses,57.8,49.5,31.5,85.4,44,90.4
+107,"University of California, IrvineUnited StatesCoursesEnquireAdmissions Support",57.7,39.9,41.8,91.6,48.9,59.2
+108,Aarhus UniversityDenmarkCourses,57.7,36.9,50.7,79.8,68.3,76.8
+109,University of MannheimGermanyCoursesVerify Documents,57.7,34.5,47.7,86.9,85.3,64.6
+110,University of Notre DameUnited StatesCoursesEnquireAdmissions Support,57.6,47.6,48.1,81.7,33.7,47.6
+111,The University of Western AustraliaAustraliaCoursesEnquire,57.5,33.4,46.1,83.6,64.5,92.6
+112,RWTH Aachen UniversityGermanyCourses,57.2,49.4,56.3,63.2,98.1,54.1
+113,University of SouthamptonUnited KingdomCoursesEnquire,57.2,39.8,43.6,82,37.5,88.4
+114,Scuola Normale Superiore di PisaItalyCourses,57.1,54.2,53.1,67.2,52,46.3
+115,University of MontrealCanadaCoursesExplore,57,46.3,45.5,69.6,92.6,84.2
+116,Pierre and Marie Curie UniversityFranceCourses,57,52.8,32.7,82.9,37.4,74.1
+117,Purdue University West LafayetteUnited StatesCoursesEnquireAdmissions Support,57,50.2,57.7,63.2,-,66.4
+118,Pohang University of Science and Technology (POSTECH)South KoreaCourses,56.9,49.1,47.1,76.7,100,33.7
+119,"University of Maryland, College ParkUnited StatesCoursesEnquire",56.7,45,42.1,88.2,32.3,43.5
+120,Ghent UniversityBelgiumCoursesVerify Documents,56.6,42.1,54.5,71.2,88.3,54.2
+121,University of BirminghamUnited KingdomCoursesEnquire,56.2,39.4,41.8,82.7,34.7,82
+122,University of BernSwitzerlandCourses,56.1,40,42.5,76.6,82.9,83.7
+123,University of Cape TownSouth AfricaCoursesExplore,56.1,34.9,38.7,85.6,92.7,80.2
+124,University of FloridaUnited StatesCoursesEnquireAdmissions Support,56.1,51.8,56.8,67.7,-,33.3
+125,University of Erlangen-NurembergGermanyCourses,56,51.7,39.7,75.2,99.4,47
+126,"Rutgers, the State University of New JerseyUnited StatesCoursesEnquireAdmissions Support",56,43.9,55.7,75.4,35.9,34.7
+127,University of MünsterGermanyCoursesVerify Documents,55.9,40.3,44.1,85.6,58.2,46.3
+128,Radboud University NijmegenNetherlandsCoursesExplore,55.9,34.3,48.5,84.9,39.2,60.9
+129,University of Colorado BoulderUnited StatesCoursesEnquire,55.8,39.7,37.6,96.4,35.7,36.6
+130,Tufts UniversityUnited StatesCoursesEnquireAdmissions Support,55.8,45.2,33.3,90.1,60.7,49.4
+131,"Royal Holloway, University of LondonUnited KingdomCoursesEnquire",55.7,35.1,33.2,91.2,34.4,92.7
+132,Lancaster UniversityUnited KingdomCoursesEnquireAdmissions Support,55.6,34,41.4,85.3,33.6,87
+133,University of GenevaSwitzerlandCourses,55.4,34.9,40.5,78.5,72.4,98.5
+134,University of YorkUnited KingdomCoursesEnquire,55.4,41.9,46.3,73.1,31.1,83.5
+135,Case Western Reserve UniversityUnited StatesCoursesEnquireAdmissions Support,55.3,46.1,33.2,92,34.1,40.5
+136,University of LeedsUnited KingdomCoursesEnquire,55.3,43.7,39,79.2,36.7,77.4
+137,University of OsloNorwayCoursesVerify Documents,55.1,43.3,44.7,75.5,38.3,68.2
+138,Stockholm UniversitySwedenCourses,54.8,34.1,51.2,82.5,31.1,48.5
+139,University of AlbertaCanadaCoursesEnquire,54.7,46.4,48.1,63.6,47.4,80.7
+140,Chinese University of Hong KongHong KongCoursesExplore,54.5,41.5,48.5,68.4,37.5,81.1
+141,Karlsruhe Institute of TechnologyGermanyCoursesVerify Documents,54.5,37.7,47.5,73.8,99.5,56.7
+142,University of SussexUnited KingdomCoursesEnquire,54.4,33.4,37.2,86.1,30.6,88.3
+143,University of MassachusettsUnited StatesCoursesEnquire,54.3,40.2,36.3,88.1,52.2,48.9
+144,University of ViennaAustriaCourses,54.2,40.8,50.5,63.6,30.2,92.6
+145,University of NottinghamUnited KingdomCoursesEnquire,54.1,40.3,39,77.5,39.8,80.6
+146,"University of California, Santa CruzUnited StatesCoursesEnquire",53.9,31.1,34.2,99.9,36.1,45.6
+147,University of LausanneSwitzerlandCourses,53.9,30.9,45.6,76.2,56,89.2
+148,Autonomous University of BarcelonaSpainCoursesExplore,53.8,40.3,40,83.8,34.9,50.3
+149,University of Virginia (Main campus)United StatesCoursesEnquireAdmissions Support,53.3,38.8,37.5,87.3,37.9,43.4
+150,Korea Advanced Institute of Science and Technology (KAIST)South KoreaCourses,53,43.3,40.5,75.9,100,33.9
+151,University of AdelaideAustraliaCoursesExplore,52.9,32.8,43.2,72.4,79.3,85.1
+152,University of East AngliaUnited KingdomCoursesExplore,52.9,31.9,28.7,92.7,28.5,83.5
+153,University of TwenteNetherlandsCoursesVerify Documents,52.9,34.1,45.6,68.8,91.2,80.1
+154,Sungkyunkwan University (SKKU)South KoreaCoursesExplore,52.8,51.4,53.5,53.8,97.5,36.7
+155,Vrije Universiteit AmsterdamNetherlandsCoursesVerify Documents,52.5,28.4,37.1,90.7,60.1,54.9
+156,KTH Royal Institute of TechnologySwedenCoursesVerify Documents,52.4,39,44.3,63.9,78.1,84.4
+157,University of CologneGermanyCoursesVerify Documents,52.3,42.2,38,75,68.5,53.1
+158,University of LiverpoolUnited KingdomCoursesEnquire,52.2,32.8,30.9,85.9,36.6,85.4
+159,TU DresdenGermanyCoursesVerify Documents,52.1,41.4,45.8,66.1,99.7,47.7
+160,University of RochesterUnited StatesCoursesEnquireAdmissions Support,52.1,39.7,27.9,89,37,55.8
+161,Lomonosov Moscow State UniversityRussian FederationCourses,51.9,75.4,66.7,8.6,95.7,57.8
+162,University of MiamiUnited StatesCoursesEnquireAdmissions Support,51.9,41.7,22.3,90.1,35.5,64
+163,University of ArizonaUnited StatesCoursesEnquire,51.7,38.7,41.8,79.5,32.4,38.6
+164,Pompeu Fabra UniversitySpainCoursesVerify Documents,51.2,32.9,28,90.7,37.2,63.3
+165,University of ReadingUnited KingdomCoursesEnquire,51.2,39.3,37.3,69.9,34.2,85.1
+166,Yeshiva UniversityUnited StatesCoursesEnquire,51.2,44.8,23.7,92.8,-,28.5
+167,"University of California, RiversideUnited StatesCoursesEnquire",51.1,27.5,33.3,91.2,42.5,59.5
+168,University of LeicesterUnited KingdomCoursesEnquire,51.1,32.1,27.8,86,31.7,86.6
+169,National Taiwan University (NTU)TaiwanCoursesExplore,51.1,54.1,58,47.3,49.6,27.7
+170,Technical University of DenmarkDenmarkCoursesVerify Documents,51.1,37.3,29.9,77.8,50,85.1
+171,Université Catholique de LouvainBelgiumCoursesVerify Documents,51.1,38.7,40.6,68.4,51,74.2
+172,University of AberdeenUnited KingdomCoursesEnquire,51,29.7,31.4,82.6,43.1,91.4
+173,University of AucklandNew ZealandCoursesExplore,51,31.4,39.5,69.8,78,90.5
+174,University of BarcelonaSpainCoursesExplore,50.9,38.5,37.4,78.9,31.1,49.2
+175,University of KonstanzGermanyCourses,50.8,38.5,46.7,61.9,92.4,58.3
+176,Eindhoven University of TechnologyNetherlandsCoursesExplore,50.6,34.3,41,70.7,57.3,71.3
+177,University College DublinIrelandCourses,50.6,35,38.5,70.8,33.5,86.3
+178,Hebrew University of JerusalemIsraelCourses,50.5,45.8,41.4,64.6,31.9,55.6
+179,University of WaterlooCanadaCoursesExplore,50.3,35.4,43.9,66.5,39.5,74.4
+180,University of GothenburgSwedenCoursesVerify Documents,50.2,28.5,39.8,81.8,30.3,58.3
+181,Sant’Anna School of Advanced Studies – PisaItalyCourses,50.2,42.5,23.2,84.5,71.2,45.2
+182,University of BergenNorwayCourses,50.1,32.5,31.5,82.4,36.2,70
+183,Cardiff UniversityUnited KingdomCoursesEnquire,50.1,30.9,31.6,82,34.6,78.1
+184,University of UtahUnited StatesCoursesEnquire,50.1,35.6,35.3,83.7,57.4,30.1
+185,Brandeis UniversityUnited StatesCoursesEnquireAdmissions Support,49.9,28.3,25.7,97.3,38.6,47
+186,University of DundeeUnited KingdomCoursesEnquire,49.9,25.6,26.9,90.2,49.5,78.5
+187,University of WürzburgGermanyCourses,49.9,34.6,35.8,79.1,47.9,50.9
+188,Paris-Sud UniversityFranceCourses,49.8,38.7,29,79.8,28.8,64.2
+189,Arizona State University (Tempe)United StatesCoursesExplore,49.7,32.4,38.1,84.6,32,31.9
+190,University of AntwerpBelgiumCoursesVerify Documents,49.6,31.6,40.8,71.7,60.3,64.8
+191,Boston CollegeUnited StatesCoursesEnquireAdmissions Support,49.6,34.1,29.3,83.3,46.8,60
+192,Ulm UniversityGermanyCoursesVerify Documents,49.5,35.2,23.9,86.4,58.4,58.2
+193,University of LuxembourgLuxembourgCourses,49.4,25,26.7,84.8,38.1,99.8
+194,Texas A&M UniversityUnited StatesCoursesExplore,49.4,49.4,52.4,47.1,46.4,47.8
+195,Charité - Universitätsmedizin BerlinGermanyCourses,49.3,37.3,22.2,83.8,68.4,61.1
+196,Newcastle UniversityUnited KingdomCoursesEnquireExplore,49.2,30.9,27.5,81.5,34.7,84.3
+197,"St George’s, University of LondonUnited KingdomCoursesEnquire",49.2,25.6,18.1,100,37.7,69.5
+198,University of TrentoItalyCourses,49.1,30.8,27.4,87.7,47.1,55.9
+199,Paris Diderot University – Paris 7FranceCourses,48.9,30.5,22.9,91,29,64.9
+200,Queen’s University BelfastUnited KingdomCoursesExplore,48.8,34.1,33.3,68.9,35.7,93.4
+201,Aalborg UniversityDenmarkCoursesExplore,-,25.1,28.4,73.8,43.7,71
+202,"Birkbeck, University of LondonUnited KingdomCoursesEnquire",-,33.5,35.1,66.3,28.5,89.9
+203,University of BolognaItalyCoursesExplore,-,39.3,29.5,73,34.5,39.9
+204,University at BuffaloUnited StatesCoursesEnquire,-,36.5,37.9,62,43.8,60.6
+205,University of CalgaryCanadaCoursesEnquire,-,33.9,36.7,67.8,52,70.1
+206,Chalmers University of TechnologySwedenCoursesVerify Documents,-,36.6,35.3,52.2,79.5,77.6
+207,City University of Hong KongHong KongCoursesExplore,-,32.1,26.7,76.8,50.1,81.6
+208,Copenhagen Business SchoolDenmarkCoursesVerify Documents,-,19.3,26.5,79.4,35.3,88.5
+209,Dalhousie UniversityCanadaCoursesEnquire,-,30.4,29.4,65.2,50.3,78.3
+210,University of São PauloBrazilCourses,-,60.9,68.6,20.4,40.3,25.3
+211,University of Duisburg-EssenGermanyCoursesExplore,-,32.3,27,81.3,82.3,48.5
+212,École Normale Supérieure de LyonFranceCourses,-,41.6,30,69,31.7,65.6
+213,Florida State UniversityUnited StatesCoursesEnquire,-,38.5,40.1,64.7,32,41.6
+214,University of FribourgSwitzerlandCourses,-,32.3,32.9,64.1,60.8,87.4
+215,Fudan UniversityChinaCourses,-,44.7,30.4,61.1,28,38.6
+216,University of IcelandIcelandCourses,-,16.8,27.1,91.4,58.8,61
+217,George Washington UniversityUnited StatesCoursesEnquire,-,44.7,23.5,65.7,29.5,48.1
+218,Goethe University FrankfurtGermanyCourses,-,35.8,28.6,79.3,38.1,60.2
+219,University of Hawai’i at MānoaUnited StatesCoursesEnquire,-,32,35.5,67.7,44.7,63.4
+220,Hong Kong Polytechnic UniversityHong KongCoursesExplore,-,29.3,35.2,63.3,45.1,79
+221,University of Illinois at ChicagoUnited StatesCoursesEnquire,-,40.9,29.2,63.2,38,58.1
+222,Indiana UniversityUnited StatesCoursesEnquire,-,43,27.3,74.8,-,41.2
+223,University of IowaUnited StatesCoursesEnquire,-,41,26.7,73.5,54.1,32.3
+224,University of Technology SydneyAustraliaCoursesExplore,-,27.2,35.4,66.9,43.4,90.1
+225,Johannes Gutenberg University of MainzGermanyCourses,-,34.9,21.7,72.6,70.7,53.3
+226,Joseph Fourier UniversityFranceCourses,-,34.2,21.6,83.2,31.6,58.6
+227,University of KielGermanyCoursesVerify Documents,-,32.3,20.5,89.5,-,49.4
+228,Université LavalCanadaCoursesExplore,-,37.5,31.7,62.2,57.5,63.8
+229,Medical University of ViennaAustriaCourses,-,26.6,14.6,89.1,33.9,81.7
+230,Northeastern UniversityUnited StatesCoursesEnquireAdmissions Support,-,35.5,20.6,84,32.9,58.7
+231,Oregon Health and Science UniversityUnited StatesCoursesEnquire,-,27.8,15.7,96,44.6,21.4
+232,University of OtagoNew ZealandCourses,-,30.7,30.5,74.9,31.5,89.9
+233,University of OttawaCanadaCoursesEnquireExplore,-,37.1,36.7,61.5,41.5,69.9
+234,Paris Descartes UniversityFranceCourses,-,24.6,28.8,83.3,29,49.1
+235,Peter the Great St Petersburg Polytechnic UniversityRussian FederationCoursesExplore,-,30.8,17.8,97.4,42.5,29.6
+236,Politecnico di MilanoItalyCoursesExplore,-,30.1,31.7,76.3,66.3,48.8
+237,Royal Veterinary CollegeUnited KingdomCoursesEnquire,-,26,27.8,74.9,45.5,81.7
+238,Rush UniversityUnited StatesCoursesEnquire,-,37.7,17.4,88.9,45.4,21.8
+239,Sapienza University of RomeItalyCourses,-,38,37.3,61.5,32.6,34.7
+240,University of Science and Technology of ChinaChinaCoursesExplore,-,46.7,36.6,67.2,80.3,21.4
+241,University of South Florida (Tampa)United StatesCoursesEnquire,-,24.8,35.7,73.4,99.8,45.1
+242,Stony Brook UniversityUnited StatesCoursesEnquire,-,32.6,22,83,33.4,53.2
+243,University of StuttgartGermanyCoursesVerify Documents,-,40,44.5,55.7,99.8,52.7
+244,Swedish University of Agricultural SciencesSwedenCoursesVerify Documents,-,31.5,32.8,68.1,99.9,40.1
+245,Technical University of DarmstadtGermanyCourses,-,37.1,43.2,51.1,99.1,54.4
+246,Tel Aviv UniversityIsraelCourses,-,41,50.5,49.2,42.9,47.5
+247,University of Texas at DallasUnited StatesCoursesExplore,-,24.3,26.7,86.8,41.8,52.3
+248,Tilburg UniversityNetherlandsCoursesExplore,-,34.1,47.1,51.5,57.4,71.6
+249,Tohoku UniversityJapanCourses,-,45.3,42.7,49.4,74.7,29.3
+250,Tokyo Institute of TechnologyJapanCourses,-,45.6,47.6,42.2,70.9,31.9
+251,University of VictoriaCanadaCoursesEnquire,-,20.6,30,79,36.6,70.2
+252,Wake Forest UniversityUnited StatesCoursesEnquireAdmissions Support,-,34.6,19.5,94.8,42.5,24.2
+253,Western UniversityCanadaCoursesEnquire,-,38.6,32.4,59,59.7,73.6
+254,William & MaryUnited StatesCoursesEnquireAdmissions Support,-,38.5,17.5,85,29.1,26.6
+255,University of the WitwatersrandSouth AfricaCoursesExplore,-,26.2,31.5,76,99.7,68.4
+256,Aalto UniversityFinlandCourses,-,31.1,32.8,62.1,61.6,65.4
+257,Aix-Marseille UniversityFranceCourses,-,36.7,22.1,64.9,33.1,63
+258,University of BathUnited KingdomCoursesEnquireAdmissions Support,-,28.9,27.9,56.7,36.3,84.8
+259,University of BayreuthGermanyCoursesVerify Documents,-,32.2,31.2,60.1,56.4,52.6
+260,Bielefeld UniversityGermanyCourses,-,35.2,46.2,49.9,60.9,45.4
+261,University of BordeauxFranceCoursesExplore,-,25.3,22,71.7,30.6,54.6
+262,Charles Darwin UniversityAustraliaCoursesEnquire,-,17.8,22.6,85.9,43.2,63.7
+263,Colorado School of MinesUnited StatesCoursesEnquire,-,28.5,30.3,71.8,83.7,35.5
+264,"Colorado State University, Fort CollinsUnited StatesCoursesEnquire",-,31.6,33,59.3,41,34.5
+265,University of DelawareUnited StatesCoursesEnquire,-,23.7,34,70,98.7,41.6
+266,Flinders UniversityAustraliaCoursesExplore,-,21.4,25.7,69.5,41.7,64.7
+267,University of GeorgiaUnited StatesCoursesEnquire,-,41.1,30.5,52.2,30.9,39.2
+268,Griffith UniversityAustraliaCoursesExplore,-,22.5,25.2,66.3,34.6,81.7
+269,Indian Institute of ScienceIndiaCourses,-,42.7,47.2,42.4,52.4,16.4
+270,Iowa State UniversityUnited StatesCoursesEnquire,-,31.2,29.4,61.5,54,35.4
+271,James Cook UniversityAustraliaCoursesEnquire,-,19,22.8,81.4,40.7,70.4
+272,Justus Liebig University GiessenGermanyCourses,-,32.9,33.9,52.9,46.4,46.8
+273,King Abdulaziz UniversitySaudi ArabiaCoursesExplore,-,23.9,11.8,76.6,73.1,93
+274,Koç UniversityTurkeyCourses,-,21.2,27.1,74.9,82.4,53.5
+275,Korea UniversitySouth KoreaCoursesExplore,-,43.9,43.4,41.8,99.8,40.2
+276,University of LiègeBelgiumCoursesVerify Documents,-,29.1,36.6,46.5,98.9,69.7
+277,Linköping UniversitySwedenCoursesVerify Documents,-,24.2,18.9,76.8,42.1,57.7
+278,Nanjing UniversityChinaCourses,-,37.2,32.2,54.2,58.6,50.4
+279,National Tsing Hua UniversityTaiwanCourses,-,37.7,36.6,53,49.5,23.2
+280,"National University of Ireland, GalwayIrelandCourses",-,27.3,25.4,68.5,41.9,76.5
+281,University of NewcastleAustraliaCoursesEnquire,-,27.4,26.5,67.2,64.4,75.9
+282,North Carolina State UniversityUnited StatesCoursesEnquire,-,36.1,30.5,60,40.7,49
+283,National Research Nuclear University MEPhIRussian FederationCourses,-,44.9,27.8,52.8,99.8,27.5
+284,Oregon State UniversityUnited StatesCoursesEnquire,-,30.6,28.5,63.8,32.1,42.8
+285,Osaka UniversityJapanCourses,-,46.8,45.2,37.4,76.1,26.6
+286,Queen’s UniversityCanadaCoursesEnquireExplore,-,35.8,35.8,54.4,54.2,61.6
+287,Technion Israel Institute of TechnologyIsraelCourses,-,33,36.1,52.1,38.9,61.9
+288,Queensland University of TechnologyAustraliaCoursesExplore,-,28.8,35.6,56,73.7,76
+289,Rensselaer Polytechnic InstituteUnited StatesCoursesEnquireAdmissions Support,-,30.4,31.5,65.1,79.6,40.3
+290,RCSI University of Medicine and Health SciencesIrelandCoursesExplore,-,29.9,20.1,65.3,33.9,90.1
+291,Ruhr University BochumGermanyCourses,-,32.8,30,54.4,66.6,51.7
+292,Saint Louis UniversityUnited StatesCoursesEnquire,-,36.9,10.9,85,29.9,26.6
+293,Paris-Sorbonne University – Paris 4FranceCourses,-,61,55.8,7.1,28.5,44.2
+294,Simon Fraser UniversityCanadaCoursesExplore,-,23.2,29.2,72.8,42.3,61.4
+295,University of SurreyUnited KingdomCoursesExplore,-,31.7,28.9,51.2,34.9,90.4
+296,Syracuse UniversityUnited StatesCoursesEnquireAdmissions Support,-,31.4,20.8,77.1,36.3,38.3
+297,University of TasmaniaAustraliaCoursesEnquire,-,21.8,25.7,68,42.7,79.1
+298,The University of Tennessee-KnoxvilleUnited StatesCoursesEnquire,-,29.5,23.2,81.4,41.3,39.3
+299,Tomsk Polytechnic UniversityRussian FederationCourses,-,31.6,15.1,82.4,60.2,32.7
+300,Tulane UniversityUnited StatesCoursesEnquireAdmissions Support,-,39.1,19.3,67.8,32.4,35.3
+301,Umeå UniversitySwedenCourses,-,20.8,25,74.5,31.1,56.1
+302,TU WienAustriaCourses,-,34.1,32,54.6,86.5,77.3
+303,Virginia Polytechnic Institute and State UniversityUnited StatesCoursesExplore,-,34.9,38.2,54.2,43.3,29.5
+304,University of WollongongAustraliaCoursesExplore,-,25.8,28.4,59.3,57.9,86.8
+305,Zhejiang UniversityChinaCoursesExplore,-,44.3,46,36.1,96.2,19.6
+306,Aberystwyth UniversityUnited KingdomCoursesEnquire,-,21.6,18.9,67.2,31.3,72.2
+307,University of Alaska FairbanksUnited StatesCoursesEnquire,-,25.1,23.1,63,51.2,53.5
+308,Autonomous University of MadridSpainCourses,-,35.6,30.9,46.9,33,48.6
+309,Bangor UniversityUnited KingdomCoursesEnquire,-,22.6,22.1,65.4,31,81.3
+310,University of BremenGermanyCoursesVerify Documents,-,30.9,32.7,50,46,50
+311,University of Cincinnati – UptownUnited StatesCoursesEnquire,-,31.3,20.4,72.1,35.3,28.3
+312,University of ConnecticutUnited StatesCoursesEnquire,-,35.9,25.6,57,30.9,43.1
+313,Deakin UniversityAustraliaCoursesEnquire,-,22.4,21.9,66.8,30,76.9
+314,University of EssexUnited KingdomCoursesEnquire,-,33.9,33.3,38.6,28.9,93.7
+315,George Mason UniversityUnited StatesCoursesEnquire,-,29.6,21.2,64.9,29.1,36.9
+316,University of GreifswaldGermanyCourses,-,30.1,23.5,61.3,32.6,41.7
+317,Gwangju Institute of Science and TechnologySouth KoreaCourses,-,35.2,42,43.7,45.2,36.2
+318,University of HohenheimGermanyCoursesVerify Documents,-,30.9,33.8,51.5,52.8,50.3
+319,University of InnsbruckAustriaCourses,-,23.6,16.9,67.3,39.9,95.7
+320,Kazan Federal UniversityRussian FederationCourses,-,21.9,12.3,87.5,42.4,25.5
+321,University of KentUnited KingdomCoursesExplore,-,24.6,19.1,60.9,28.8,87.2
+322,Leibniz University HannoverGermanyCourses,-,36.5,36.9,39,69.6,43.2
+323,Macquarie UniversityAustraliaCoursesExplore,-,28.5,27.2,52.3,33.1,90
+324,Medical College of WisconsinUnited StatesCoursesEnquire,-,25.4,12.1,85.2,31.8,30.4
+325,University of MilanItalyCourses,-,30.5,24.2,64.8,40.9,37.7
+326,University of Milan-BicoccaItalyCourses,-,24.3,25.5,65.8,46.6,34.3
+327,Montpellier UniversityFranceCourses,-,38.7,16.7,59.5,31.9,54.4
+328,Nagoya UniversityJapanCourses,-,40.8,38.9,40.1,91.4,27.4
+329,University of Naples Federico IIItalyCourses,-,24.7,14.8,81.3,47.4,21.1
+330,National Chiao Tung UniversityTaiwanCourses,-,32.9,45.4,34.2,96.9,32
+331,National Taiwan University of Science and Technology (Taiwan Tech)TaiwanCoursesExplore,-,31.7,43.1,39.1,92.2,30.5
+332,University of NavarraSpainCoursesVerify Documents,-,31.9,20.8,57.5,63.5,52.6
+333,University of Nebraska-LincolnUnited StatesCoursesExplore,-,30.1,30.2,53.5,35.6,45.8
+334,Örebro UniversitySwedenCourses,-,18.3,10.4,87.8,29.8,39.4
+335,University of OregonUnited StatesCoursesEnquire,-,21.2,22.7,72.6,30.8,33.5
+336,University of PaduaItalyCourses,-,25.7,22.6,74.6,32.6,37.9
+337,University of PaviaItalyCourses,-,25,22.5,65.1,69.4,40.5
+338,University of PlymouthUnited KingdomCoursesEnquire,-,19.3,18,75.2,28.5,64
+339,Shanghai Jiao Tong UniversityChinaCoursesExplore,-,37.8,45.2,34,92.9,27.5
+340,University of Southern DenmarkDenmarkCourses,-,19.2,14.7,79.7,28,71.8
+341,Stellenbosch UniversitySouth AfricaCoursesExplore,-,28.2,35,46.9,100,49.8
+342,University of StrasbourgFranceCourses,-,25.5,23.4,64.4,32.8,71.6
+343,TU Dortmund UniversityGermanyCourses,-,34.2,29.8,55.3,48.6,40.8
+344,Toulouse 1 Capitole UniversityFranceCourses,-,18.6,35.7,56.3,32.5,66.7
+345,University of TriesteItalyCourses,-,26.5,18.5,74.1,32.3,47.3
+346,University of TurinItalyCourses,-,27.4,22.3,67.5,54.2,38.8
+347,University of TurkuFinlandCourses,-,27.1,21.2,65.8,31.2,66.2
+348,Vrije Universiteit BrusselBelgiumCoursesVerify Documents,-,28.7,24.5,56.8,77.1,64.5
+349,VSB - Technical University of OstravaCzech RepublicCoursesExplore,-,18.8,15.7,85.5,32.1,22.3
+350,Yonsei UniversitySouth KoreaCourses,-,37.2,34.1,39.4,75.9,41.5
+351,York UniversityCanadaCoursesExplore,-,30.2,30.8,49.1,33.2,58.2
+352,SUNY Binghamton UniversityUnited StatesCoursesEnquire,-,22.7,17.4,62,34,53.6
+353,University of CreteGreeceCourses,-,18.6,19.2,73.6,34.5,47
+354,University of CyprusCyprusCoursesExplore,-,18,28.5,56.7,30,74.7
+355,Drexel UniversityUnited StatesCoursesEnquire,-,31.2,14.6,57.7,36.3,46.3
+356,University of Eastern FinlandFinlandCourses,-,24.8,20.7,65.1,33.3,46.1
+357,University of FlorenceItalyCourses,-,21.7,20.4,72.1,35.9,38.5
+358,University of St GallenSwitzerlandCourses,-,25.8,11.2,53.5,41.8,97.6
+359,Graz University of TechnologyAustriaCourses,-,26,15.8,52.9,77.2,69.3
+360,University of GuelphCanadaCoursesEnquire,-,28,34.2,44.4,47.4,53.6
+361,Hanyang UniversitySouth KoreaCoursesExplore,-,33.9,32.6,31.1,87.9,54.3
+362,Hong Kong Baptist UniversityHong KongCoursesExplore,-,22.6,12.1,67.9,28.8,75
+363,University of HoustonUnited StatesCoursesEnquire,-,34.9,26.5,52,42.3,33.9
+364,Indian Institute of Technology BombayIndiaCourses,-,37.8,28.6,48.5,42.3,17.7
+365,Instituto Superior Técnico LisboaPortugalCourses,-,22.2,25,59.8,38.8,43.7
+366,University of JyväskyläFinlandCourses,-,28.2,25.5,55.5,34.2,47.1
+367,La Trobe UniversityAustraliaCoursesEnquire,-,27,28.5,45.4,43.7,78
+368,Loughborough UniversityUnited KingdomCoursesEnquire,-,31.2,32.2,41.3,36.6,72.9
+369,University of ManitobaCanadaCoursesEnquire,-,27.1,26.9,49.7,41.8,57.8
+370,Mizzou - University of MissouriUnited StatesCoursesEnquire,-,31.2,21,60.2,31.1,31
+371,University of Modena and Reggio EmiliaItalyCourses,-,18.7,15.6,72.9,32.3,34.2
+372,University of MontanaUnited StatesCoursesEnquire,-,30.8,13.6,65.5,31,21.5
+373,Maynooth UniversityIrelandCourses,-,24.6,22.8,50.2,36.6,75.6
+374,University of Nebraska Medical CenterUnited StatesCoursesEnquire,-,37,13.3,64.4,33.6,37.7
+375,University of New Mexico (Main campus)United StatesCoursesEnquire,-,25.6,15.4,74.5,37,28.6
+376,Norwegian University of Science and TechnologyNorwayCoursesVerify Documents,-,16.3,25.8,59.8,51.8,59.9
+377,University of OuluFinlandCoursesExplore,-,23.1,15.9,62.3,30.9,56.9
+378,Panthéon-Sorbonne University – Paris 1FranceCourses,-,53.2,47.6,6.8,28.3,47.6
+379,Polytechnic University of TurinItalyCourses,-,23.7,18.6,65.9,42.5,50.6
+380,University of Rome IIIItalyCourses,-,23.1,21,64.8,37.5,35.9
+381,Bilkent UniversityTurkeyCourses,-,23.5,18.6,64.1,36.4,47.5
+382,Sabancı UniversityTurkeyCoursesExplore,-,22.3,32.3,52.8,70,42.7
+383,San Diego State UniversityUnited StatesCoursesEnquire,-,20.3,27,62.7,29.3,25.9
+384,University of South AustraliaAustraliaCoursesEnquire,-,26.4,26.7,41.2,85.9,89
+385,University of South Carolina-ColumbiaUnited StatesCoursesEnquire,-,31.1,21.5,58.7,30.3,24.5
+386,University of South DakotaUnited StatesCoursesEnquire,-,29.3,12.1,70.4,28,17.1
+387,University of CampinasBrazilCourses,-,44.6,42.3,22.6,49.4,21.1
+388,University of StirlingUnited KingdomCoursesExplore,-,22.6,23.5,59.1,30.4,77.7
+389,Sun Yat-sen UniversityChinaCoursesExplore,-,31.9,24.6,45.7,79.4,37
+390,Swansea UniversityUnited KingdomCoursesEnquire,-,22.2,23.8,58.2,32.7,72.4
+391,Swinburne University of TechnologyAustraliaCoursesEnquire,-,21.5,20.2,53.4,32.2,84.8
+392,University of TartuEstoniaCourses,-,23.8,22.8,64.2,31.5,46.1
+393,Temple UniversityUnited StatesCoursesEnquire,-,34,18.2,58.3,41.6,28.6
+394,The University of Texas at San AntonioUnited StatesCoursesEnquire,-,18.1,16.6,74.9,28.6,29.6
+395,UiT The Arctic University of NorwayNorwayCourses,-,26.5,18.7,58.8,36.8,66.1
+396,Université Libre de BruxellesBelgiumCoursesVerify Documents,-,26.1,28.3,47.9,39.1,84.5
+397,Lille 2 University – Health and LawFranceCourses,-,15.1,9.5,81.7,31.5,39.4
+398,University College CorkIrelandCourses,-,28.6,23.8,48.4,47.1,75.5
+399,Verona UniversityItalyCourses,-,23.6,13.1,76.1,36.6,38.3
+400,Victoria University of WellingtonNew ZealandCoursesEnquire,-,26,28.7,44.3,45.6,88.8
+401,Washington State UniversityUnited StatesCoursesEnquire,-,29,28.2,49.6,57.1,39.6
+402,Wayne State UniversityUnited StatesCoursesEnquire,-,31.9,14.2,65.3,41.7,29.6
+403,American UniversityUnited StatesCoursesEnquire,-,42.2,16.5,41.1,35.9,28.9
+404,Aston UniversityUnited KingdomCoursesEnquire,-,18.4,20.4,51.9,34.6,92.5
+405,University of AveiroPortugalCourses,-,24.8,26.5,43.6,40.1,45.9
+406,University of Bari Aldo MoroItalyCourses,-,28.7,21.6,48.8,45.4,31.7
+407,Bar-Ilan UniversityIsraelCourses,-,22.6,21.3,42.3,28.9,49.4
+408,Makerere UniversityUgandaCourses,-,15.9,11.8,70.7,33.1,58
+409,Bournemouth UniversityUnited KingdomCoursesEnquire,-,32,12.6,35.2,28.8,70.6
+410,University of BresciaItalyCourses,-,15.6,14.8,72.3,35.8,36.6
+411,Brno University of TechnologyCzech RepublicCourses,-,18,14.7,55.8,33.7,35.8
+412,Brunel University LondonUnited KingdomCoursesEnquire,-,24.8,23.3,39.5,34.7,91.8
+413,Ca’ Foscari University of VeniceItalyCourses,-,23.9,27.8,48.9,32.3,38.1
+414,University of CagliariItalyCourses,-,19.4,13.2,56.8,33.6,32.6
+415,University of CanterburyNew ZealandCoursesEnquireExplore,-,23.5,22.5,38.9,52.1,91
+416,Catholic University of the Sacred HeartItalyCourses,-,18.6,11.3,55.4,38.7,39
+417,Charles University in PragueCzech RepublicCourses,-,31.5,21.5,41,28.2,52.8
+418,"China Medical University, TaiwanTaiwanCoursesExplore",-,24,29.4,45,60.4,25.7
+419,"City, University of LondonUnited KingdomCoursesEnquire",-,23.5,21.2,43.5,28.9,89.6
+420,Claude Bernard University Lyon 1FranceCourses,-,21.3,13.2,66.5,34.5,50.5
+421,University of CoimbraPortugalCourses,-,28.3,26.5,42.4,34.8,46.2
+422,Complutense University of MadridSpainCoursesVerify Documents,-,33.2,27.6,31.2,30.9,39.1
+423,Concordia UniversityCanadaCoursesEnquire,-,19.3,23.4,36.4,30.9,77.4
+424,Curtin UniversityAustraliaCoursesExplore,-,20.1,20.2,44.6,37.8,93.1
+425,Dublin City UniversityIrelandCourses,-,26.1,25.2,36.3,51.7,76.7
+426,East China University of Science and TechnologyChinaCourses,-,24.1,17.1,46.4,64.7,21.7
+427,Ewha Womans UniversitySouth KoreaCourses,-,23.9,18.3,50.4,57.6,34.3
+428,Federico Santa María Technical UniversityChileCoursesExplore,-,17.2,10.1,70.5,35.1,54.1
+429,University of FerraraItalyCourses,-,17.7,17.2,63.3,35.9,41.8
+430,Florida International UniversityUnited StatesCoursesExplore,-,25.7,18.1,49.4,32.7,32.8
+431,University of GenoaItalyCourses,-,27.2,14.2,59.3,42.3,38.8
+432,Georgia State UniversityUnited StatesCoursesEnquire,-,26.3,19.5,52.9,28.7,29.5
+433,University of GrazAustriaCourses,-,24.9,16.3,53.3,29.3,68.9
+434,Heriot-Watt UniversityUnited KingdomCoursesEnquire,-,23.4,22.4,36.4,45.6,90.1
+435,Hokkaido UniversityJapanCourses,-,40.3,32.8,29.3,53.7,27.9
+436,Howard UniversityUnited StatesCoursesEnquire,-,38.8,11,44.5,-,30.3
+437,University of HullUnited KingdomCoursesEnquire,-,22.4,16.1,41.1,31.8,73.2
+438,University of IdahoUnited StatesCoursesEnquire,-,28.3,19.4,40.8,32.4,32
+439,Indian Institute of Technology DelhiIndiaCourses,-,35.8,25.8,33.4,62.8,15.5
+440,Indian Institute of Technology KharagpurIndiaCourses,-,33.2,30.5,41.4,31.7,13.3
+441,Indian Institute of Technology MadrasIndiaCourses,-,34.6,20.7,31.4,88.9,16.1
+442,University of IoanninaGreeceCourses,-,14.5,17.7,56.4,32.9,36.9
+443,Iran University of Science and TechnologyIranCourses,-,25.9,26,42.3,61.2,12.2
+444,Johannes Kepler University of LinzAustriaCourses,-,19.2,13.8,51.6,37.4,58.5
+445,University of KaiserslauternGermanyCoursesVerify Documents,-,29.6,22.6,47.5,80.2,44.1
+446,Keele UniversityUnited KingdomCoursesEnquire,-,20,17.6,53,29.3,72.7
+447,University of KwaZulu-NatalSouth AfricaCoursesExplore,-,20.3,25.7,41.5,38.2,58.6
+448,Kyung Hee UniversitySouth KoreaCoursesExplore,-,26.1,27.6,39.2,89.4,46.4
+449,Kyushu UniversityJapanCourses,-,36.5,27.5,31.8,83.2,26.4
+450,Lehigh UniversityUnited StatesCoursesEnquireAdmissions Support,-,23.9,15,58.2,38.9,36
+451,Louisiana State UniversityUnited StatesCoursesEnquire,-,26.8,27.7,37.8,-,26.1
+452,University of MacauMacaoCoursesExplore,-,18.5,17,49.7,34.9,98.4
+453,Marche Polytechnic UniversityItalyCourses,-,15.2,11,80.2,28,27.3
+454,"University of Maryland, Baltimore CountyUnited StatesCoursesEnquire",-,21.3,18.2,61.3,31.7,28.2
+455,Murdoch UniversityAustraliaCoursesExplore,-,18.7,19.6,51.2,36.5,88.3
+456,University of NantesFranceCourses,-,19.6,12.2,69.4,-,35.1
+457,National and Kapodistrian University of AthensGreeceCourses,-,26.7,16.3,45.8,-,39
+458,National Autonomous University of MexicoMexicoCourses,-,42.7,40.2,14.8,63.7,35.9
+459,National Cheng Kung University (NCKU)TaiwanCoursesExplore,-,29.8,40.2,27.2,100,27.7
+460,National Institute of Applied Sciences of Lyon (INSA Lyon)FranceCourses,-,27,10.6,41.8,40.3,63.6
+461,National Yang-Ming UniversityTaiwanCourses,-,41.5,18.5,33.3,30.2,15.8
+462,University of NeuchâtelSwitzerlandCourses,-,24.2,14.7,48.2,-,91.4
+463,NOVA University of LisbonPortugalCourses,-,26.9,21.9,38.3,41.3,44.5
+464,University of Nice Sophia AntipolisFranceCourses,-,21.4,16.1,53.7,28.5,79.5
+465,Novosibirsk State UniversityRussian FederationCourses,-,41.4,30.8,26.2,38.2,32.4
+466,The Open UniversityUnited KingdomCoursesEnquire,-,21,13.8,60.3,28.4,51.5
+467,Oxford Brookes UniversityUnited KingdomCoursesEnquire,-,25.7,18.8,42.7,28.4,68.9
+468,University of PalermoItalyCourses,-,15.3,9.1,77.4,28,23.6
+469,University of ParmaItalyCourses,-,17.7,16.6,56.4,37.1,36.8
+470,University of PisaItalyCourses,-,21.6,18.9,64.5,31.4,31.1
+471,Universitat Politècnica de CatalunyaSpainCourses,-,25.2,14.8,44.7,40.9,63.9
+472,Pontifical Catholic University of ChileChileCourses,-,28.2,21.3,37,28,52.4
+473,University of PortoPortugalCourses,-,32,28.2,37.2,38.7,45.4
+474,University of PortsmouthUnited KingdomCoursesEnquire,-,17.2,10.9,58.2,28.9,79.3
+475,RMIT UniversityAustraliaCoursesEnquire,-,24.7,17.7,44.6,37,82.1
+476,University of Rome II – Tor VergataItalyCourses,-,23.5,17.2,64.5,34.7,36.5
+477,Rovira i Virgili UniversitySpainCourses,-,20.8,14.8,66.9,30.9,41.5
+478,Saint Petersburg State UniversityRussian FederationCourses,-,47.9,31.4,14.5,29.5,33
+479,University of SalentoItalyCourses,-,29.6,13.2,53,36.2,24.5
+480,University of San FranciscoUnited StatesCoursesEnquire,-,34.2,12.9,43.8,28.6,40.1
+481,University of SaskatchewanCanadaCoursesEnquireExplore,-,30.8,22.4,39.7,62.9,52.9
+482,Sharif University of TechnologyIranCourses,-,26.6,30.1,33.7,87.8,15.9
+483,University of SienaItalyCourses,-,23.7,17.8,45.2,33.2,39
+484,Southern Cross UniversityAustraliaCoursesEnquire,-,18.9,18.3,53.3,37.7,52.7
+485,SUNY University at AlbanyUnited StatesCoursesEnquire,-,25.6,35.3,35.5,28,31.4
+486,University of StrathclydeUnited KingdomCoursesEnquire,-,25.9,28,31.8,44.1,71
+487,University of TampereFinlandCourses,-,23.5,13.7,63.7,40,41.9
+488,Boğaziçi UniversityTurkeyCourses,-,21.9,19.2,45.4,57.1,38.3
+489,Tampere University of TechnologyFinlandCourses,-,23.1,17.2,45.5,67.5,54
+490,Tokyo Medical and Dental University (TMDU)JapanCourses,-,39.3,18.3,36.6,59.5,23.1
+491,Tokyo Metropolitan UniversityJapanCourses,-,21.6,11.4,72.2,30.9,19.9
+492,University of TsukubaJapanCourses,-,40,30,33.7,42.9,34.4
+493,University of UlsanSouth KoreaCourses,-,19.5,20.5,54,64.7,18.6
+494,Ulster UniversityUnited KingdomCoursesEnquire,-,19.1,13.2,44.1,29.2,79
+495,Université du Québec à MontréalCanadaCoursesEnquire,-,26.8,24.5,41.6,29.2,42.9
+496,Universiti Teknologi MalaysiaMalaysiaCourses,-,26.3,14.6,44.7,31.1,51.7
+497,University of Urbino Carlo BoItalyCourses,-,17.2,8.7,66.8,31.2,35
+498,University of ValenciaSpainCourses,-,22.7,16.9,49.6,31.3,40.5
+499,University of WaikatoNew ZealandCoursesEnquire,-,19.3,18.2,53.7,30.7,87
+500,Western Sydney UniversityAustraliaCoursesExplore,-,20.1,24.6,52.3,30.7,54
+501,Wuhan UniversityChinaCoursesExplore,-,38.2,26.8,18,97.8,36.7
+502,Xiamen UniversityChinaCourses,-,26.7,15.6,47,-,25
+503,American University of BeirutLebanonCourses,-,27.7,11.2,31.9,-,93
+504,Amirkabir University of TechnologyIranCourses,-,24.5,25.7,34.8,55.7,7.7
+505,"University of the Andes, ColombiaColombiaCourses",-,21.2,13.8,31.2,28,51.7
+506,University of ArkansasUnited StatesCoursesEnquire,-,25.5,17.4,30.3,36.9,25.9
+507,Auburn UniversityUnited StatesCoursesEnquire,-,30.2,19.4,21,37.2,27.9
+508,Babeş-Bolyai UniversityRomaniaCourses,-,27.9,12.5,32.1,28.6,35.4
+509,Bauman Moscow State Technical UniversityRussian FederationCourses,-,44,23.7,3.1,68.1,15.6
+510,Blaise Pascal UniversityFranceCourses,-,20.2,2.9,46.9,-,66.6
+511,University of BurgundyFranceCourses,-,21.4,8.8,46.3,-,50.9
+512,University of CanberraAustraliaCoursesExplore,-,18.4,19.3,29.8,36.2,54.6
+513,Ben-Gurion University of the NegevIsraelCourses,-,25.8,23.1,30.1,37,52.9
+514,Carleton UniversityCanadaCoursesEnquire,-,19.9,24,32,30.4,61.3
+515,University of CataniaItalyCourses,-,19.2,15.9,52.9,29.5,25.3
+516,Central Queensland UniversityAustraliaCoursesExplore,-,20.9,11.4,43.7,32.5,50.8
+517,University of ChileChileCourses,-,28.3,19.6,30.5,-,44.1
+518,China Agricultural UniversityChinaCourses,-,35.8,24.9,22.6,52.3,17.6
+519,Chung-Ang UniversitySouth KoreaCourses,-,29.9,27.6,17.4,61.3,43.7
+520,Czech Technical University in PragueCzech RepublicCourses,-,20.6,9.3,46.5,28.2,25
+521,De Montfort UniversityUnited KingdomCoursesEnquire,-,16.8,10.1,40.1,28.5,58.4
+522,East China Normal UniversityChinaCoursesExplore,-,24.6,14.7,43.3,42,30.6
+523,Edith Cowan UniversityAustraliaCoursesExplore,-,18.9,16.1,35,34.5,68.7
+524,Federal University of Rio de JaneiroBrazilCourses,-,32.4,19.7,18.3,42.9,25.1
+525,University of GranadaSpainCoursesVerify Documents,-,24.3,14.7,45.8,29.4,36.4
+526,University of HaifaIsraelCourses,-,25.5,29.5,26.2,30.3,34.7
+527,Harbin Institute of TechnologyChinaCourses,-,29.4,27.3,15.7,99.8,25.6
+528,University of HertfordshireUnited KingdomCoursesEnquire,-,15.5,9.5,50.5,29.3,78.9
+529,Hiroshima UniversityJapanCourses,-,27.8,18.9,41.7,42.2,22.2
+530,Huazhong University of Science and TechnologyChinaCoursesExplore,-,29.3,22.7,31.6,71.8,17.3
+531,Indian Institute of Technology GuwahatiIndiaCourses,-,24.3,20.7,42.6,32.3,12.9
+532,Indian Institute of Technology KanpurIndiaCourses,-,33.1,15,31.5,28,16.4
+533,Indian Institute of Technology RoorkeeIndiaCourses,-,29.7,17.5,37.2,81.4,13.9
+534,Isfahan University of TechnologyIranCourses,-,18.1,23,39.5,99.5,17.2
+535,Istanbul Technical UniversityTurkeyCourses,-,19.2,25.8,26.5,72.1,22.9
+536,Jadavpur UniversityIndiaCourses,-,32.8,22.2,31.8,33.8,7.7
+537,Kanazawa UniversityJapanCourses,-,24.7,14.8,35.5,30.4,18.4
+538,Kansas State UniversityUnited StatesCoursesEnquire,-,22.9,17.5,39.3,43.1,41.7
+539,Keio UniversityJapanCourses,-,25,17.5,28.5,41.4,22.7
+540,Kent State UniversityUnited StatesCoursesEnquire,-,18.4,14.2,53.8,28.5,32.4
+541,King Fahd University of Petroleum and MineralsSaudi ArabiaCourses,-,25.4,16.1,24.4,81.2,84.5
+542,King Saud UniversitySaudi ArabiaCourses,-,20,17.5,22.3,57.4,75.5
+543,University of La LagunaSpainCourses,-,16.9,10,44.8,28.5,44.7
+544,Lappeenranta-Lahti University of Technology LUTFinlandCoursesExplore,-,27.1,27.5,20.8,80.3,53
+545,University of LimerickIrelandCourses,-,19.8,16.3,36.6,34,76.5
+546,University of LisbonPortugalCourses,-,25.9,18.3,32.4,35.4,46.6
+547,Liverpool John Moores UniversityUnited KingdomCoursesEnquire,-,16.4,11.6,45.9,28.8,62.1
+548,Mahidol UniversityThailandCoursesExplore,-,26.8,15.1,28.3,71.6,44.1
+549,Manchester Metropolitan UniversityUnited KingdomCoursesEnquire,-,22.7,10.6,30.8,28.3,57.8
+550,University of MariborSloveniaCourses,-,17.1,11.5,42.1,38.7,33.6
+551,Masaryk UniversityCzech RepublicCourses,-,21.2,22.9,27.8,28.5,48.9
+552,University of the Basque CountrySpainCourses,-,18.2,19.6,43.1,30.3,34.9
+553,Massey UniversityNew ZealandCoursesEnquire,-,23.1,17.1,31.9,35.8,80.5
+554,Memorial University of NewfoundlandCanadaCoursesExplore,-,18.1,15.8,35.6,48.3,53.3
+555,Middle East Technical UniversityTurkeyCourses,-,29.9,17.3,28.8,60,26.7
+556,University of MinhoPortugalCourses,-,23.9,20.1,35.3,51.6,43.6
+557,Missouri University of Science and TechnologyUnited StatesCoursesEnquire,-,23.5,18.4,28.7,52.8,40.6
+558,Montana State UniversityUnited StatesCoursesEnquire,-,17.7,21.8,48,43,23.5
+559,Monterrey Institute of TechnologyMexicoCoursesExplore,-,23.9,12.7,23.4,75.8,59.6
+560,National Central UniversityTaiwanCourses,-,26.3,23.2,17.5,75.3,27.1
+561,National Sun Yat-Sen UniversityTaiwanCourses,-,26.1,33,25.8,44.3,19.7
+562,National Taiwan Normal UniversityTaiwanCoursesExplore,-,26.2,31.3,16.2,81.9,38.1
+563,National Technical University of AthensGreeceCourses,-,20.2,15,36.2,40.3,31.3
+564,Moscow Institute of Physics and Technology (MIPT)Russian FederationCourses,-,35.4,18.4,15.5,62.8,44.4
+565,New Jersey Institute of TechnologyUnited StatesCoursesEnquire,-,18.9,16.6,32.2,32.2,48.5
+566,New Mexico State University (Main campus)United StatesCoursesEnquire,-,19.5,19.2,47.2,34.6,30.5
+567,University of North Carolina at GreensboroUnited StatesCoursesEnquire,-,18.2,15.3,43.1,28.9,17.4
+568,Oklahoma State UniversityUnited StatesCoursesEnquire,-,27.5,22.7,33.1,33.7,25.6
+569,Osaka City UniversityJapanCourses,-,26.3,13.4,34.4,40.7,21.3
+570,Otto von Guericke University of MagdeburgGermanyCourses,-,22.9,14.4,39.7,37.7,43.9
+571,University of OviedoSpainCourses,-,19.5,10.8,41.9,34.1,36.2
+572,Palacký University OlomoucCzech RepublicCourses,-,19.2,11.8,42.9,28.7,48.8
+573,Panjab UniversityIndiaCourses,-,24.6,8.8,41,28.1,14.1
+574,Paris Dauphine UniversityFranceCourses,-,21.9,11.1,27.6,30.6,69.3
+575,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)BrazilCourses,-,24.5,24.1,23.1,100,31.3
+576,Portland State UniversityUnited StatesCoursesEnquire,-,16.8,14.4,43.3,44.6,31.6
+577,University of PretoriaSouth AfricaCoursesExplore,-,25.6,21.2,17.5,52.4,46
+578,Pusan National UniversitySouth KoreaCoursesExplore,-,27.5,24.7,20.4,66.8,32.9
+579,Quaid-i-Azam UniversityPakistanCourses,-,17.9,9.9,45.6,-,35.4
+580,University of ReginaCanadaCoursesExplore,-,15.6,15.8,34.2,34.4,47.7
+581,Renmin University of ChinaChinaCourses,-,34.7,13.7,30.7,42.5,40.1
+582,University of Rennes 1FranceCourses,-,17.8,10.3,44.7,31.7,53
+583,University of SalamancaSpainCourses,-,26.1,16.9,25.9,31.6,40.8
+584,University of Santiago de CompostelaSpainCourses,-,22.9,14.1,46.9,32.3,37.1
+585,Semmelweis UniversityHungaryCoursesExplore,-,19.6,10.6,41.5,30.7,81.7
+586,University of SevilleSpainCourses,-,21.5,14.9,32.6,36.7,32
+587,Université de SherbrookeCanadaCoursesEnquire,-,25.6,9.5,41.3,29.6,39.8
+588,Soochow UniversityChinaCoursesExplore,-,19.2,13.7,45.8,75.3,16
+589,South China University of TechnologyChinaCourses,-,19.5,22.1,28.1,86.8,17.5
+590,Tallinn University of TechnologyEstoniaCourses,-,16.3,15,38.7,44.8,37.9
+591,Tehran University of Medical SciencesIranCourses,-,51.8,20,9.3,30,14.1
+592,University of Texas at ArlingtonUnited StatesCoursesEnquire,-,20.1,10.1,50.9,33.4,50.3
+593,Tianjin UniversityChinaCourses,-,36.5,34.4,12.2,100,14.7
+594,Tokyo University of Agriculture and TechnologyJapanCourses,-,34.9,24.1,16.9,39.9,19.4
+595,University of ToledoUnited StatesCoursesEnquire,-,31.6,13.4,29.9,32.9,37.7
+596,Tongji UniversityChinaCourses,-,28.9,29.2,13.1,63.5,37.2
+597,The University of TulsaUnited StatesCoursesEnquire,-,29.7,12.9,24.6,71.7,43.8
+598,United Arab Emirates UniversityUnited Arab EmiratesCoursesExplore,-,18.8,14.8,21.7,30.1,95
+599,University of WarsawPolandCourses,-,26.1,15.8,42.2,28.5,41.6
+600,University of Wisconsin-MilwaukeeUnited StatesCoursesEnquire,-,17.3,13.8,45.5,29,26
+601,Xi’an Jiaotong UniversityChinaCourses,-,28.7,22.5,25.5,70.4,25.8
+602,University of ZaragozaSpainCourses,-,20.1,12.7,49.5,36.7,33.5
+603,University of A CoruñaSpainCourses,-,18.3,10,16.6,38.2,23.4
+604,"Adam Mickiewicz University, PoznańPolandCourses",-,20,11,15.3,28.7,25.7
+605,AGH University of Science and TechnologyPolandCourses,-,14.2,3.7,35.7,-,17.9
+606,Ajou UniversitySouth KoreaCourses,-,19.5,11.9,23.9,45.7,20
+607,University of AlcaláSpainCourses,-,17.6,11.2,28.3,43.3,50
+608,Alexandria UniversityEgyptCourses,-,20.3,8.2,14.1,29.7,33.7
+609,Alexandru Ioan Cuza UniversityRomaniaCourses,-,24.9,13.6,7,28.2,46.9
+610,Aligarh Muslim UniversityIndiaCourses,-,28.3,10,20.9,29.6,18.7
+611,American University of SharjahUnited Arab EmiratesCourses,-,12.4,10.6,13.3,33.3,95.6
+612,Amrita Vishwa VidyapeethamIndiaCourses,-,20.4,5.8,20.7,28,29.6
+613,Anadolu UniversityTurkeyCourses,-,12.2,22.6,10.9,100,14.3
+614,Andhra UniversityIndiaCourses,-,34.8,6.9,1.2,31.3,7.2
+615,University of AntioquiaColombiaCourses,-,18.1,21.1,14.8,43.6,42
+616,Aristotle University of ThessalonikiGreeceCourses,-,22.6,15,29.5,33.6,36.6
+617,"Asia University, TaiwanTaiwanCourses",-,14.4,15.9,30.5,38.4,18.3
+618,Athens University of Economics and BusinessGreeceCourses,-,13.4,18.8,31.2,66.5,39.2
+619,Auckland University of TechnologyNew ZealandCoursesExplore,-,17.3,9.8,21.7,28.5,95.6
+620,Austral University of ChileChileCourses,-,16.7,9.7,14.2,41.1,45.2
+621,Beijing Institute of TechnologyChinaCourses,-,25.9,21.7,9.1,87.6,16.9
+622,Belarusian State UniversityBelarusCourses,-,20.2,8.7,6,28,48.2
+623,University of BelgradeSerbiaCourses,-,20.4,13.2,14,45.6,30.5
+624,"Birla Institute of Technology and Science, PilaniIndiaCourses",-,18.3,8.3,17.4,29.6,13.7
+625,University of BradfordUnited KingdomCoursesEnquire,-,18.7,15.9,22.7,32.7,79.1
+626,University of BrasíliaBrazilCourses,-,21.9,7.4,10.4,-,24.1
+627,University of BrightonUnited KingdomCoursesEnquire,-,16.7,10.7,20.1,29.4,62.8
+628,University of BucharestRomaniaCourses,-,34.3,11.5,9.9,29.5,21.3
+629,Budapest University of Technology and EconomicsHungaryCourses,-,17.1,13.7,21.6,39.7,30.4
+630,Cairo UniversityEgyptCourses,-,18.9,11.1,11.9,30.3,31
+631,University of CalcuttaIndiaCourses,-,34.7,8.7,19.8,29.2,13.1
+632,"California State University, Long BeachUnited StatesCoursesEnquire",-,11.6,10.4,23.3,-,18.9
+633,Capital Medical UniversityChinaCourses,-,26.3,14.9,16.3,28.8,18.8
+634,University of Castilla-La ManchaSpainCoursesExplore,-,18.4,10.3,30.5,29.7,28.6
+635,University of Central LancashireUnited KingdomCoursesEnquire,-,15.7,9.4,28.2,28.9,54.1
+636,University of Cergy-PontoiseFranceCourses,-,18.7,6.3,13.2,28.6,49.1
+637,Chang Gung UniversityTaiwanCourses,-,19.3,24.7,27.6,31.9,15.7
+638,Carlos III University of MadridSpainCoursesExplore,-,23.2,17.4,24.8,34.8,44.7
+639,"University of Chemistry and Technology, PragueCzech RepublicCourses",-,21.6,12,17.4,38.9,46.3
+640,Chiang Mai UniversityThailandCourses,-,17.8,9.4,30,32.3,34.9
+641,Chiba UniversityJapanCourses,-,26.9,16.8,24.8,55.3,21
+642,"China University of Geosciences, WuhanChinaCourses",-,21.1,21.4,21.5,64.5,16.1
+643,"China University of Petroleum, BeijingChinaCourses",-,23.6,26.6,4,100,15.9
+644,Jeonbuk National UniversitySouth KoreaCoursesExplore,-,19.7,14.7,24.5,33.3,27.2
+645,Chongqing UniversityChinaCourses,-,19.5,15.5,8.7,73.8,15.5
+646,Chonnam National UniversitySouth KoreaCoursesExplore,-,17.5,11.7,29.1,31.4,20.4
+647,Chulalongkorn UniversityThailandCoursesExplore,-,23.8,14.1,16.7,37.8,32.8
+648,Chung Yuan Christian UniversityTaiwanCourses,-,15.9,22.1,17.4,41.9,18.7
+649,Chungnam National UniversitySouth KoreaCourses,-,23.2,17.7,13.2,39.9,19.8
+650,Clemson UniversityUnited StatesCoursesEnquire,-,21.4,19.7,27,35.8,34.6
+651,Comenius University in BratislavaSlovakiaCourses,-,23,10.3,19.6,28,46.9
+652,Coventry UniversityUnited KingdomCoursesExplore,-,17.1,7.7,18.4,29.1,69.6
+653,Dalian University of TechnologyChinaCourses,-,22.6,19,23.5,93.3,20.7
+654,University of DebrecenHungaryCoursesExplore,-,17.3,11.4,20.9,-,49
+655,University of DelhiIndiaCourses,-,29.8,10.8,19.1,28.2,15.4
+656,University of DhakaBangladeshCourses,-,21.7,7.2,9.6,-,37.2
+657,Dublin Institute of TechnologyIrelandCourses,-,16.1,8.8,20.7,28.1,70.5
+658,Ehime UniversityJapanCourses,-,19.2,11.3,17.5,37.8,20.9
+659,University of Electronic Science and Technology of ChinaChinaCoursesExplore,-,20.5,12.9,8.8,28,13.4
+660,Eötvös Loránd UniversityHungaryCoursesExplore,-,21.3,12.1,30.6,29.3,43
+661,Erciyes UniversityTurkeyCourses,-,15.5,10.9,18,30.3,17.2
+662,Universidade Federal da BahiaBrazilCourses,-,18.2,8.1,14.3,-,19.7
+663,Federal University of Minas GeraisBrazilCourses,-,27.9,15.4,23.1,30.7,21.6
+664,Universidade Federal do Paraná (UFPR)BrazilCourses,-,24.6,9.6,7,-,15.5
+665,Universidade Federal do Rio Grande do SulBrazilCourses,-,32.6,13.7,16.8,-,18.9
+666,Universidade Federal de Santa CatarinaBrazilCourses,-,26,12.2,14.2,42.9,21
+667,Federal University of São CarlosBrazilCourses,-,29,10.8,11.5,-,16.8
+668,Federal University of ViçosaBrazilCourses,-,39.7,14.5,3.9,59,15
+669,Federal University of LavrasBrazilCourses,-,25.8,16.4,3,-,14.5
+670,Feng Chia UniversityTaiwanCourses,-,14.6,13.7,34.4,33.9,21.1
+671,Florida Institute of TechnologyUnited StatesCoursesEnquire,-,20.4,13.5,24.6,33.4,62.4
+672,Fu Jen Catholic UniversityTaiwanCourses,-,14.4,9.8,18.2,47,19.1
+673,Gdańsk University of TechnologyPolandCourses,-,15.5,9.5,15.2,36.8,16.1
+674,University of GhanaGhanaCourses,-,15.6,15.6,19.5,-,48.4
+675,Gifu UniversityJapanCourses,-,25.4,16.9,14.7,32.8,18.5
+676,Glasgow Caledonian UniversityUnited KingdomCoursesEnquire,-,17.1,10.4,24.2,29.9,55
+677,University of GreenwichUnited KingdomCoursesEnquire,-,15.7,9.5,17.7,30,81.8
+678,Hacettepe UniversityTurkeyCourses,-,21,11.8,19.7,28.2,19.6
+679,University of HuddersfieldUnited KingdomCoursesEnquire,-,17.4,5.4,16.5,28,55.2
+680,University of TehranIranCourses,-,27.3,17.7,15.8,-,16.5
+681,Hunan UniversityChinaCourses,-,18.3,15,21.2,46.7,14.8
+682,University of IbadanNigeriaCourses,-,22.7,11.1,4.6,29.2,26.1
+683,University of IndonesiaIndonesiaCourses,-,18.1,8,13.9,40,37.2
+684,Inha UniversitySouth KoreaCourses,-,20.7,20,22.5,64.7,23.5
+685,I-Shou UniversityTaiwanCourses,-,12.8,11.5,13.3,41,24.8
+686,Istanbul UniversityTurkeyCourses,-,26,23.3,10,100,20
+687,Jagiellonian UniversityPolandCourses,-,24,14.4,30.7,28,33.5
+688,Jilin UniversityChinaCoursesExplore,-,28.2,14.4,14.6,42.1,20.3
+689,The University of JordanJordanCourses,-,19,7.7,7.8,28.8,53.7
+690,Jordan University of Science and TechnologyJordanCourses,-,16.4,6.2,16.4,31.4,62.2
+691,Juntendo UniversityJapanCourses,-,32.3,10.5,24,51.1,16.7
+692,K.N. Toosi University of TechnologyIranCourses,-,20.9,18.1,22.5,45.5,7.1
+693,Kaohsiung Medical UniversityTaiwanCourses,-,20.6,22.2,20.5,33.2,19.9
+694,Khon Kaen UniversityThailandCourses,-,18.2,7.4,19.9,35.7,31.5
+695,King Mongkut’s University of Technology ThonburiThailandCourses,-,18.2,11.4,36.2,70.3,28.5
+696,Kingston UniversityUnited KingdomCoursesEnquire,-,16.9,12.1,26.7,28.5,76.8
+697,Kindai UniversityJapanCourses,-,18.5,7.9,30,33.2,17
+698,Kobe UniversityJapanCourses,-,27.8,15.4,24.3,45.1,21.1
+699,Konkuk UniversitySouth KoreaCourses,-,20,19.6,17,36,22.6
+700,Kumamoto UniversityJapanCourses,-,23.4,11.6,28.1,43.1,22.2
+701,Kyungpook National UniversitySouth KoreaCoursesExplore,-,21.1,16,18.1,34.9,21.7
+702,Kyushu Institute of Technology (Kyutech)JapanCourses,-,19.4,12.5,14.2,44.1,20.7
+703,University of LatviaLatviaCourses,-,22.6,10.2,20.9,28.3,31.5
+704,Lille 1 University – Science and TechnologyFranceCourses,-,20,8.6,32.4,31.8,60.3
+705,University of LincolnUnited KingdomCourses,-,17.9,11.9,26.4,29.3,60.5
+706,University of LjubljanaSloveniaCourses,-,24.9,13.6,24,32.3,34.5
+707,University of Marrakech Cadi AyyadMoroccoCourses,-,17.4,6.3,12.1,29.2,42.7
+708,Miami UniversityUnited StatesCoursesEnquire,-,19.2,15.7,36.1,30.2,24.8
+709,Middlesex UniversityUnited KingdomCoursesEnquire,-,18.5,10.6,25.7,-,81
+710,University of MurciaSpainCoursesExplore,-,19.3,11.7,28,29.5,28.3
+711,Nagasaki UniversityJapanCourses,-,22.8,10.8,14.3,-,21.9
+712,University of NairobiKenyaCourses,-,13.7,9,19.5,28,45.5
+713,National Chengchi UniversityTaiwanCourses,-,18.4,12.5,14,31.3,33.1
+714,National Chung Cheng UniversityTaiwanCourses,-,21.3,20.3,15.7,40.8,14.2
+715,National Chung Hsing UniversityTaiwanCourses,-,20.2,16.8,24.5,42.5,16.9
+716,National Taipei University of TechnologyTaiwanCoursesExplore,-,17.8,14.6,16.4,81.3,16
+717,National Taiwan Ocean UniversityTaiwanCourses,-,18.1,21,18.2,49.3,20.3
+718,National University of CórdobaArgentinaCourses,-,16,9,12.5,28.6,28.1
+719,National University of Science and Technology (MISiS)Russian FederationCourses,-,24.8,17.5,10.8,67.2,33.7
+720,National University of Sciences and TechnologyPakistanCourses,-,21.4,7,35,31.3,31.3
+721,Niigata UniversityJapanCoursesExplore,-,21.9,10.1,17.5,33,19.3
+722,Northumbria UniversityUnited KingdomCoursesEnquire,-,17.7,10.9,29.2,29.1,55.1
+723,Northwestern Polytechnical UniversityChinaCoursesExplore,-,23.4,15.4,3.5,28,15.2
+724,Nottingham Trent UniversityUnited KingdomCoursesEnquire,-,16.5,8.9,27.3,28.4,52.7
+725,Oakland UniversityUnited StatesCoursesEnquire,-,18.1,11.9,21.9,30.3,23.3
+726,Ocean University of ChinaChinaCourses,-,18.9,10.7,12.9,50.1,15.6
+727,Ohio University (Main campus)United StatesCoursesEnquire,-,25,14.9,24.6,30.1,33.6
+728,Okayama UniversityJapanCourses,-,24.3,14.9,25.3,48,20.6
+729,Osaka Prefecture UniversityJapanCourses,-,21.6,10.2,17.5,41.5,17.6
+730,University of PardubiceCzech RepublicCourses,-,15.9,11.9,11.1,28.3,23.4
+731,University of Paris North – Paris 13FranceCourses,-,17.5,11.6,36.2,28,46.4
+732,University of PatrasGreeceCourses,-,18.5,12.1,28.8,48.3,30.6
+733,University of PécsHungaryCoursesExplore,-,19.7,9,23.4,28.4,50.8
+734,Polytechnic University of ValenciaSpainCourses,-,20.3,12.7,34.3,43.8,32.9
+735,Pontifícia Universidade Católica do ParanáBrazilCourses,-,18.4,6.5,32.2,28,18.6
+736,Pontifical Catholic University of Rio Grande do Sul (PUCRS)BrazilCourses,-,21.1,10.9,27.6,52.3,18.7
+737,Pontifical Catholic University of ValparaísoChileCourses,-,18.4,8,10.4,44.3,35.7
+738,Prince of Songkla UniversityThailandCourses,-,15.3,7,22.2,31.6,31
+739,Qatar UniversityQatarCourses,-,9.9,10.3,22.3,55.2,99.9
+740,Universidade do Estado do Rio de Janeiro (UERJ)BrazilCourses,-,21.7,9.1,12.3,30.8,16.8
+741,Rochester Institute of TechnologyUnited StatesCoursesEnquire,-,17.4,13.4,25.1,30.4,29.8
+742,Saitama UniversityJapanCourses,-,18.6,9.6,23.4,29.6,20.6
+743,University of SalfordUnited KingdomCoursesEnquire,-,20.8,12.1,21.2,28.8,66.4
+744,"University of Santiago, Chile (USACH)ChileCourses",-,17.6,11.3,10.2,31,40.4
+745,Universidade Estadual Paulista (Unesp)BrazilCourses,-,28,22.6,6.7,40.1,18.7
+746,Savitribai Phule Pune UniversityIndiaCourses,-,38.3,12.4,11.4,29.3,17.3
+747,University of Science and Technology BeijingChinaCourses,-,25.1,22.4,6.9,89.7,15.6
+748,Sejong UniversitySouth KoreaCourses,-,18.9,12.2,38.7,35.4,25.2
+749,University of SeoulSouth KoreaCourses,-,22.8,17.5,21.4,28.9,18.7
+750,Shahid Beheshti UniversityIranCourses,-,20.5,19,11.4,58.9,13.8
+751,Shanghai UniversityChinaCourses,-,19.1,16.1,14.8,45.7,15.8
+752,Shantou UniversityChinaCourses,-,17.6,9.1,28.3,30.7,30.7
+753,Sheffield Hallam UniversityUnited KingdomCoursesEnquire,-,17.3,9.4,20.1,28.6,47
+754,Shinshu UniversityJapanCourses,-,20.8,8.3,22,31.6,20.3
+755,Showa UniversityJapanCourses,-,28.5,7.9,7,-,14
+756,Sichuan UniversityChinaCourses,-,25,18.4,16.1,90.8,15.7
+757,University of Silesia in KatowicePolandCourses,-,17.7,8,20.4,28.1,18.5
+758,Slovak University of Technology in BratislavaSlovakiaCourses,-,23.3,8.6,24.9,33.2,30.6
+759,Sogang UniversitySouth KoreaCourses,-,21.5,24.8,20.5,46.8,27.7
+760,Sophia UniversityJapanCoursesExplore,-,22,9.4,5.3,29.5,32.8
+761,University of South AfricaSouth AfricaCourses,-,18.4,11.3,9.4,28.8,28.7
+762,Southern Federal UniversityRussian FederationCourses,-,21.9,8.2,9.2,39.5,17.3
+763,University of Southern MississippiUnited StatesCoursesEnquire,-,21,11.8,20.1,39.9,20.8
+764,University of Southern QueenslandAustraliaCourses,-,18.4,13.1,14.4,28.8,63
+765,Suez Canal UniversityEgyptCourses,-,22.6,5.9,16,-,31.6
+766,Sultan Qaboos UniversityOmanCourses,-,21.3,10.6,16,37.6,71.5
+767,Suranaree University of TechnologyThailandCourses,-,21.1,11.6,18.4,38.1,25.9
+768,University of SzegedHungaryCourses,-,20,10.5,20.5,33.2,46.9
+769,Taipei Medical UniversityTaiwanCoursesExplore,-,25.7,21.7,19,42.2,26.5
+770,Taras Shevchenko National University of KyivUkraineCourses,-,27.9,11,4.2,28,28.2
+771,Technical University of MadridSpainCourses,-,21.8,14.6,24.5,38.3,39.5
+772,University of Texas at El PasoUnited StatesCoursesEnquire,-,18.6,18.7,18.4,-,30.4
+773,Texas Tech UniversityUnited StatesCoursesEnquire,-,27.9,17.2,22,-,36.8
+774,Tokai UniversityJapanCourses,-,17.9,7.6,15.3,34.4,19.3
+775,Tokushima UniversityJapanCourses,-,25.3,21.6,12.8,59.6,16.8
+776,Tokyo University of Marine Science and TechnologyJapanCourses,-,27.9,12.4,7.7,57.9,24.5
+777,Tokyo University of ScienceJapanCoursesExplore,-,23,24.1,21.4,37.6,15.4
+778,Tomsk State UniversityRussian FederationCourses,-,34.8,20.8,7.6,44,36.9
+779,Tottori UniversityJapanCourses,-,24.3,10.1,9.6,34.5,16.7
+780,Toyohashi University of Technology (TUT)JapanCourses,-,22,18.9,15.8,50.3,25.4
+781,Universiti Kebangsaan MalaysiaMalaysiaCourses,-,24.3,15.9,10.9,28.4,29.7
+782,Universiti Putra MalaysiaMalaysiaCourses,-,25.3,20.9,10.2,34.2,50.1
+783,Universiti Sains MalaysiaMalaysiaCourses,-,26.9,16.6,12.4,34.4,44.2
+784,Universiti Teknologi MARAMalaysiaCourses,-,15.2,7.7,18.2,28.3,14.8
+785,Ural Federal UniversityRussian FederationCourses,-,24.8,10.6,16.8,35.6,17.3
+786,V.N. Karazin Kharkiv National UniversityUkraineCourses,-,21.7,8.9,1.7,28.8,48.4
+787,University of VigoSpainCourses,-,18.4,10.5,31.8,38.1,30.7
+788,Vilnius UniversityLithuaniaCourses,-,18.3,13.6,26.1,41,40.8
+789,Warsaw University of TechnologyPolandCourses,-,19.4,8.5,40.3,47.4,20.7
+790,Waseda UniversityJapanCourses,-,23.6,14.6,29.4,32.4,29.7
+791,University of West BohemiaCzech RepublicCourses,-,16.3,9.7,29.8,32.1,23.1
+792,University of the West of EnglandUnited KingdomCoursesEnquire,-,16.9,11.2,34.6,28.5,48.5
+793,West University of TimişoaraRomaniaCourses,-,16.1,3.9,22.4,-,21
+794,University of WestminsterUnited KingdomCoursesEnquire,-,17.3,11.7,21.1,28.5,81.9
+795,Xidian UniversityChinaCourses,-,17.9,12.1,8.9,83.7,12.8
+796,Yeungnam UniversitySouth KoreaCourses,-,18.6,10.9,26.5,35.4,24.3
+797,Yıldız Technical UniversityTurkeyCoursesExplore,-,14.5,7.6,19.3,44,14.9
+798,Yokohama City UniversityJapanCourses,-,24,10.2,36.4,37.9,16.1
+799,Yokohama National UniversityJapanCourses,-,20.1,16,13.5,40.4,23.3
+800,Yuan Ze UniversityTaiwanCourses,-,16.2,18.3,28.6,39.8,17.7

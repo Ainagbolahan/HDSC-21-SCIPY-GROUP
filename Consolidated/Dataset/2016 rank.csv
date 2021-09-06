@@ -1,0 +1,801 @@
+Rank,NameCountry/Region,No. of FTE Students,No. of students per staff,International Students,Female:Male Ratio
+1,California Institute of TechnologyUnited StatesCoursesEnquireAdmissions Support,"2,243",6.9,26%,33 : 67
+2,University of OxfordUnited KingdomCoursesEnquireAdmissions Support,"19,919",11.6,34%,46:54:00
+3,Stanford UniversityUnited StatesCoursesExplore,"15,596",7.8,22%,42:58:00
+4,University of CambridgeUnited KingdomCoursesEnquireAdmissions Support,"18,812",11.8,34%,46:54:00
+5,Massachusetts Institute of TechnologyUnited StatesCoursesEnquireAdmissions Support,"11,074",9,33%,37 : 63
+6,Harvard UniversityUnited StatesCoursesEnquireAdmissions Support,"20,152",8.9,25%,n/a
+7,Princeton UniversityUnited StatesCoursesEnquireAdmissions Support,"7,929",8.4,27%,45:55:00
+8,Imperial College LondonUnited KingdomCoursesEnquireAdmissions Support,"15,060",11.7,51%,37 : 63
+9,ETH ZurichSwitzerlandCourses,"18,178",14.7,37%,31 : 69
+10,The University of ChicagoUnited StatesCoursesExplore,"14,221",6.9,20%,42:58:00
+11,Johns Hopkins UniversityUnited StatesCoursesEnquireAdmissions Support,"15,128",3.6,23%,50:50:00
+12,Yale UniversityUnited StatesCoursesEnquireAdmissions Support,"11,751",4.4,20%,50:50:00
+13,"University of California, BerkeleyUnited StatesCoursesEnquireAdmissions Support","36,186",16.4,15%,50:50:00
+14,UCLUnited KingdomCoursesEnquireAdmissions Support,"26,607",10.7,46%,56:44:00
+15,Columbia UniversityUnited StatesCoursesEnquireAdmissions Support,"25,055",5.9,28%,n/a
+16,"University of California, Los AngelesUnited StatesCoursesEnquireAdmissions Support","38,206",10.3,15%,52:48:00
+17,University of PennsylvaniaUnited StatesCoursesEnquireAdmissions Support,"20,376",6.5,20%,51:49:00
+18,Cornell UniversityUnited StatesCoursesEnquireAdmissions Support,"21,424",10.2,19%,48:52:00
+19,University of TorontoCanadaCoursesEnquireExplore,"66,198",19.5,15%,n/a
+20,Duke UniversityUnited StatesCoursesEnquireAdmissions Support,"15,172",4.8,17%,49:51:00
+21,University of Michigan-Ann ArborUnited StatesCoursesEnquireAdmissions Support,"41,786",9,16%,48:52:00
+22,Carnegie Mellon UniversityUnited StatesCoursesEnquireAdmissions Support,"11,885",13.1,35%,39 : 61
+23,London School of Economics and Political ScienceUnited KingdomCoursesEnquireAdmissions Support,"9,233",12.1,70%,53:47:00
+24,University of EdinburghUnited KingdomCoursesEnquireAdmissions Support,"25,774",14.1,36%,58:42:00
+25,Northwestern UniversityUnited StatesCoursesEnquireAdmissions Support,"18,334",13.8,15%,48:52:00
+26,National University of SingaporeSingaporeCoursesExplore,"31,592",15.5,34%,49:51:00
+27,King’s College LondonUnited KingdomCoursesAdmissions Support,"21,394",11.4,37%,61:39:00
+28,Karolinska InstituteSwedenCoursesVerify Documents,"7,774",11.5,22%,70:30:00
+29,LMU MunichGermanyCoursesExplore,"35,691",15.5,13%,62:38:00
+30,New York UniversityUnited StatesCoursesEnquireAdmissions Support,"42,056",6.8,19%,55:45:00
+31,École Polytechnique Fédérale de LausanneSwitzerlandCourses,"9,666",10.5,54%,27 : 73
+32,University of WashingtonUnited StatesCoursesEnquireAdmissions Support,"44,020",11.8,13%,53:47:00
+33,University of MelbourneAustraliaCoursesEnquire,"40,128",23.7,35%,55:45:00
+34,University of British ColumbiaCanadaCoursesEnquire,"50,152",17.6,25%,54:46:00
+35,KU LeuvenBelgiumCoursesExplore,"42,503",41.9,18%,54:46:00
+36,University of Illinois at Urbana-ChampaignUnited StatesCoursesEnquireAdmissions Support,"42,727",18.7,20%,47:53:00
+37,Heidelberg UniversityGermanyCourses,"28,881",24.5,17%,55:45:00
+38,McGill UniversityCanadaCoursesEnquire,"31,326",13.7,23%,56:44:00
+39,"University of California, San DiegoUnited StatesCoursesEnquireAdmissions Support","27,233",6.5,11%,48:52:00
+40,"University of California, Santa BarbaraUnited StatesCoursesEnquireAdmissions Support","22,020",27.3,11%,52:48:00
+41,Georgia Institute of TechnologyUnited StatesCoursesEnquireAdmissions Support,"19,967",20.1,26%,31 : 69
+42,Peking UniversityChinaCoursesExplore,"40,148",8.3,14%,n/a
+43,The University of TokyoJapanCourses,"26,199",5.7,10%,n/a
+44,"University of California, DavisUnited StatesCoursesEnquireAdmissions Support","35,364",13.9,13%,54:46:00
+45,University of Hong KongHong KongCoursesExplore,"19,835",17.6,38%,53:47:00
+46,University of Texas at AustinUnited StatesCoursesEnquireAdmissions Support,"49,427",17.4,9%,51:49:00
+47,Tsinghua UniversityChinaCoursesExplore,"39,763",13.7,10%,32 : 68
+48,Wageningen University & ResearchNetherlandsCourses,"9,248",17,21%,56:44:00
+49,Humboldt University of BerlinGermanyCourses,"29,987",52.5,16%,n/a
+50,University of Wisconsin-MadisonUnited StatesCoursesEnquireAdmissions Support,"39,655",10.8,11%,51:49:00
+51,Brown UniversityUnited StatesCoursesEnquireAdmissions Support,"8,653",10.1,19%,n/a
+52,Australian National UniversityAustraliaCoursesEnquire,"14,604",19.2,35%,52:48:00
+53,Technical University of MunichGermanyCoursesVerify Documents,"35,565",31.5,20%,33 : 67
+54,École Normale SupérieureFranceCourses,"2,400",7.9,20%,46:54:00
+55,"Nanyang Technological University, SingaporeSingaporeCoursesExplore","25,028",16.2,33%,48:52:00
+56,University of ManchesterUnited KingdomCoursesEnquireExplore,"34,938",15.3,34%,52:48:00
+57,University of SydneyAustraliaCourses,"41,868",20.2,28%,57:43:00
+58,University of AmsterdamNetherlandsCoursesExplore,"24,570",14.4,11%,53:47:00
+59,The Hong Kong University of Science and TechnologyHong KongCoursesExplore,"11,385",23.8,36%,n/a
+60,The University of QueenslandAustraliaCoursesExplore,"34,718",32.7,27%,53:47:00
+61,Washington University in St LouisUnited StatesCoursesExplore,"12,528",5.7,17%,0.069444444
+62,Utrecht UniversityNetherlandsCoursesExplore,"30,779",15.4,7%,59:41:00
+63,University of North Carolina at Chapel HillUnited StatesCoursesEnquireAdmissions Support,"26,518",7.3,8%,58:42:00
+64,Boston UniversityUnited StatesCoursesEnquireAdmissions Support,"24,789",8.6,17%,58:42:00
+65,Delft University of TechnologyNetherlandsCoursesVerify Documents,"15,920",19.4,25%,26 : 74
+66,University of MinnesotaUnited StatesCoursesEnquire,"46,825",18,12%,52:48:00
+67,Leiden UniversityNetherlandsCoursesExplore,"21,222",17.1,9%,59:41:00
+68,University of Southern CaliforniaUnited StatesCoursesEnquireAdmissions Support,"36,534",12.9,20%,52:48:00
+69,University of BristolUnited KingdomCoursesAdmissions Support,"17,906",14,25%,53:47:00
+70,Durham UniversityUnited KingdomCoursesEnquireAdmissions Support,"15,489",15.7,24%,54:46:00
+71,Erasmus University RotterdamNetherlandsCoursesExplore,"20,580",18.9,17%,48:52:00
+72,Free University of BerlinGermanyCoursesVerify Documents,"33,062",39.3,20%,58:42:00
+73,Monash UniversityAustraliaCoursesEnquire,"50,882",40.5,36%,56:44:00
+74,University of GroningenNetherlandsCoursesExplore,"24,556",25.6,11%,52:48:00
+75,Penn State (Main campus)United StatesCoursesEnquire,"44,501",12.4,12%,46:54:00
+76,University of GlasgowUnited KingdomCoursesExplore,"22,616",16,29%,57:43:00
+77,University of HelsinkiFinlandCourses,"23,505",15.1,6%,66:34:00
+78,University of TübingenGermanyCoursesVerify Documents,"28,327",38.9,12%,58:42:00
+79,University of Pittsburgh-Pittsburgh campusUnited StatesCoursesEnquireAdmissions Support,"26,485",5.8,10%,51:49:00
+80,University of WarwickUnited KingdomCoursesEnquireAdmissions Support,"18,529",16.6,37%,48:52:00
+81,Uppsala UniversitySwedenCoursesVerify Documents,"25,266",18.2,12%,57:43:00
+82,University of CopenhagenDenmarkCourses,"27,545",4.1,19%,67:33:00
+83,UNSW SydneyAustraliaCoursesExplore,"38,309",25.9,32%,47:53:00
+84,University of FreiburgGermanyCourses,"26,467",31.2,16%,52:48:00
+85,Seoul National UniversitySouth KoreaCourses,"26,389",13.9,10%,n/a
+86,University of St AndrewsUnited KingdomCoursesEnquireAdmissions Support,"8,338",12.7,47%,56:44:00
+87,Vanderbilt UniversityUnited StatesCoursesEnquireAdmissions Support,"12,161",3.6,9%,52:48:00
+88,Kyoto UniversityJapanCourses,"22,809",5.6,7%,n/a
+89,Maastricht UniversityNetherlandsCoursesExplore,"15,626",18.9,48%,56:44:00
+90,Emory UniversityUnited StatesCoursesEnquireAdmissions Support,"12,338",4.5,18%,56:44:00
+91,Lund UniversitySwedenCoursesVerify Documents,"28,251",11.5,15%,n/a
+92,Ohio State University (Main campus)United StatesCoursesEnquire,"51,462",13.4,12%,49:51:00
+93,University of ExeterUnited KingdomCoursesExplore,"17,755",18.8,28%,54:46:00
+94,University of BonnGermanyCoursesVerify Documents,"32,474",70.4,12%,55:45:00
+95,Georgetown UniversityUnited StatesCoursesEnquireAdmissions Support,"15,408",8.5,14%,53:47:00
+96,McMaster UniversityCanadaCoursesExplore,"23,823",19.3,15%,53:47:00
+97,University of SheffieldUnited KingdomCoursesEnquire,"23,311",15.5,31%,50:50:00
+98,Queen Mary University of LondonUnited KingdomCourses,"14,260",14,40%,52:48:00
+99,University of GöttingenGermanyCoursesVerify Documents,"25,581",25.6,12%,51:49:00
+100,Michigan State UniversityUnited StatesCoursesEnquire,"44,750",15.7,15%,51:49:00
+101,University of BaselSwitzerlandCourses,"12,551",17.3,24%,54:46:00
+102,École PolytechniqueFranceCoursesExplore,"2,429",4.8,30%,0.806944444
+103,Rice UniversityUnited StatesCoursesEnquireAdmissions Support,"6,333",9,26%,44:56:00
+104,Trinity College DublinIrelandCoursesExplore,"15,520",22.3,25%,57:43:00
+105,Dartmouth CollegeUnited StatesCoursesEnquireAdmissions Support,"6,178",6.6,16%,47:53:00
+106,University of ZurichSwitzerlandCourses,"26,583",6.5,19%,57:43:00
+107,"University of California, IrvineUnited StatesCoursesEnquireAdmissions Support","26,614",16.1,16%,52:48:00
+108,Aarhus UniversityDenmarkCourses,"23,895",13.6,14%,54:46:00
+109,University of MannheimGermanyCoursesVerify Documents,"11,761",85.8,15%,55:45:00
+110,University of Notre DameUnited StatesCoursesEnquireAdmissions Support,"11,829",13.8,10%,44:56:00
+111,The University of Western AustraliaAustraliaCoursesEnquire,"20,851",20.7,27%,50:50:00
+112,RWTH Aachen UniversityGermanyCourses,"37,917",27.6,16%,31 : 69
+113,University of SouthamptonUnited KingdomCoursesEnquire,"20,925",13.5,29%,53:47:00
+114,Scuola Normale Superiore di PisaItalyCourses,462,16.5,5%,28 : 72
+115,University of MontrealCanadaCoursesExplore,"38,264",20.3,25%,57:43:00
+116,Pierre and Marie Curie UniversityFranceCourses,"27,862",8.7,18%,48:52:00
+117,Purdue University West LafayetteUnited StatesCoursesEnquireAdmissions Support,"39,256",18.1,22%,42:58:00
+118,Pohang University of Science and Technology (POSTECH)South KoreaCourses,"3,055",10.1,4%,0.888888889
+119,"University of Maryland, College ParkUnited StatesCoursesEnquire","31,331",8.4,9%,48:52:00
+120,Ghent UniversityBelgiumCoursesVerify Documents,"32,166",34.1,9%,57:43:00
+121,University of BirminghamUnited KingdomCoursesEnquire,"25,295",16.4,23%,54:46:00
+122,University of BernSwitzerlandCourses,"14,708",22.5,14%,54:46:00
+123,University of Cape TownSouth AfricaCoursesExplore,"20,040",12.1,18%,53:47:00
+124,University of FloridaUnited StatesCoursesEnquireAdmissions Support,"50,095",18.7,9%,54:46:00
+125,University of Erlangen-NurembergGermanyCourses,"36,146",53.9,9%,49:51:00
+126,"Rutgers, the State University of New JerseyUnited StatesCoursesEnquireAdmissions Support","37,032",17.3,8%,51:49:00
+127,University of MünsterGermanyCoursesVerify Documents,"39,838",46.1,8%,53:47:00
+128,Radboud University NijmegenNetherlandsCoursesExplore,"17,713",13,10%,58:42:00
+129,University of Colorado BoulderUnited StatesCoursesEnquire,"29,325",16.1,8%,45:55:00
+130,Tufts UniversityUnited StatesCoursesEnquireAdmissions Support,"10,410",10,14%,54:46:00
+131,"Royal Holloway, University of LondonUnited KingdomCoursesEnquire","8,747",15.9,37%,57:43:00
+132,Lancaster UniversityUnited KingdomCoursesEnquireAdmissions Support,"11,512",14.9,33%,52:48:00
+133,University of GenevaSwitzerlandCourses,"15,668",15,39%,61:39:00
+134,University of YorkUnited KingdomCoursesEnquire,"14,543",15.8,26%,55:45:00
+135,Case Western Reserve UniversityUnited StatesCoursesEnquireAdmissions Support,"9,259",6.4,17%,48:52:00
+136,University of LeedsUnited KingdomCoursesEnquire,"27,703",14.7,21%,58:42:00
+137,University of OsloNorwayCoursesVerify Documents,"27,139",18.8,18%,n/a
+138,Stockholm UniversitySwedenCourses,"31,715",23.7,8%,62:38:00
+139,University of AlbertaCanadaCoursesEnquire,"36,299",21.6,23%,55:45:00
+140,Chinese University of Hong KongHong KongCoursesExplore,"17,916",10.2,22%,53:47:00
+141,Karlsruhe Institute of TechnologyGermanyCoursesVerify Documents,"25,294",24.6,16%,26 : 74
+142,University of SussexUnited KingdomCoursesEnquire,"12,001",17.4,35%,54:46:00
+143,University of MassachusettsUnited StatesCoursesEnquire,"56,959",13,11%,49:51:00
+144,University of ViennaAustriaCourses,"34,651",20.5,25%,67:33:00
+145,University of NottinghamUnited KingdomCoursesEnquire,"30,144",15,27%,54:46:00
+146,"University of California, Santa CruzUnited StatesCoursesEnquire","17,404",22.7,1%,53:47:00
+147,University of LausanneSwitzerlandCourses,"11,964",13.1,22%,n/a
+148,Autonomous University of BarcelonaSpainCoursesExplore,"30,538",12.3,10%,59:41:00
+149,University of Virginia (Main campus)United StatesCoursesEnquireAdmissions Support,"23,845",10.2,12%,52:48:00
+150,Korea Advanced Institute of Science and Technology (KAIST)South KoreaCourses,"9,027",10,9%,0.888888889
+151,University of AdelaideAustraliaCoursesExplore,"20,771",30.1,26%,48:52:00
+152,University of East AngliaUnited KingdomCoursesExplore,"14,992",14.7,28%,58:42:00
+153,University of TwenteNetherlandsCoursesVerify Documents,"6,631",12,26%,37 : 63
+154,Sungkyunkwan University (SKKU)South KoreaCoursesExplore,"24,365",20.3,9%,39 : 61
+155,Vrije Universiteit AmsterdamNetherlandsCoursesVerify Documents,"23,280",16.3,6%,56:44:00
+156,KTH Royal Institute of TechnologySwedenCoursesVerify Documents,"12,062",14.6,21%,30 : 70
+157,University of CologneGermanyCoursesVerify Documents,"43,280",43.4,11%,60:40:00
+158,University of LiverpoolUnited KingdomCoursesEnquire,"18,815",13.6,30%,52:48:00
+159,TU DresdenGermanyCoursesVerify Documents,"35,487",37.4,12%,42:58:00
+160,University of RochesterUnited StatesCoursesEnquireAdmissions Support,"9,390",4.5,26%,49:51:00
+161,Lomonosov Moscow State UniversityRussian FederationCourses,"30,822",7.7,20%,43:57:00
+162,University of MiamiUnited StatesCoursesEnquireAdmissions Support,"15,286",5.7,14%,50:50:00
+163,University of ArizonaUnited StatesCoursesEnquire,"36,429",12.7,8%,52:48:00
+164,Pompeu Fabra UniversitySpainCoursesVerify Documents,"10,901",18.3,13%,59:41:00
+165,University of ReadingUnited KingdomCoursesEnquire,"12,050",14.8,28%,55:45:00
+166,Yeshiva UniversityUnited StatesCoursesEnquire,"6,753",5.5,7%,53:47:00
+167,"University of California, RiversideUnited StatesCoursesEnquire","20,626",22,12%,51:49:00
+168,University of LeicesterUnited KingdomCoursesEnquire,"14,541",13.4,35%,54:46:00
+169,National Taiwan University (NTU)TaiwanCoursesExplore,"31,891",11.9,7%,39 : 61
+170,Technical University of DenmarkDenmarkCoursesVerify Documents,"9,990",5,18%,27 : 73
+171,Université Catholique de LouvainBelgiumCoursesVerify Documents,"28,856",42,19%,54:46:00
+172,University of AberdeenUnited KingdomCoursesEnquire,"12,938",15.8,33%,54:46:00
+173,University of AucklandNew ZealandCoursesExplore,"29,787",18.9,28%,54:46:00
+174,University of BarcelonaSpainCoursesExplore,"47,491",12.2,10%,62:38:00
+175,University of KonstanzGermanyCourses,"10,930",59.1,12%,54:46:00
+176,Eindhoven University of TechnologyNetherlandsCoursesExplore,"8,176",16,14%,0.847916667
+177,University College DublinIrelandCourses,"22,193",24.5,23%,n/a
+178,Hebrew University of JerusalemIsraelCourses,"17,612",10.7,5%,55:45:00
+179,University of WaterlooCanadaCoursesExplore,"30,726",24.2,14%,45:55:00
+180,University of GothenburgSwedenCoursesVerify Documents,"26,420",16.4,12%,n/a
+181,Sant’Anna School of Advanced Studies – PisaItalyCourses,769,8.5,17%,35 : 65
+182,University of BergenNorwayCourses,"11,623",11.1,12%,60:40:00
+183,Cardiff UniversityUnited KingdomCoursesEnquire,"23,347",13.1,23%,57:43:00
+184,University of UtahUnited StatesCoursesEnquire,"25,674",16.9,9%,45:55:00
+185,Brandeis UniversityUnited StatesCoursesEnquireAdmissions Support,"5,495",12.6,22%,55:45:00
+186,University of DundeeUnited KingdomCoursesEnquire,"11,628",15.3,25%,60:40:00
+187,University of WürzburgGermanyCourses,"26,576",38.4,8%,57:43:00
+188,Paris-Sud UniversityFranceCourses,"27,603",15,17%,n/a
+189,Arizona State University (Tempe)United StatesCoursesExplore,"83,236",29.9,9%,50:50:00
+190,University of AntwerpBelgiumCoursesVerify Documents,"12,346",30.3,16%,56:44:00
+191,Boston CollegeUnited StatesCoursesEnquireAdmissions Support,"13,216",17.4,19%,54:46:00
+192,Ulm UniversityGermanyCoursesVerify Documents,"9,187",11.2,10%,47:53:00
+193,University of LuxembourgLuxembourgCourses,"5,144",15.9,52%,50:50:00
+194,Texas A&M UniversityUnited StatesCoursesExplore,"50,657",21.4,9%,47:53:00
+195,Charité - Universitätsmedizin BerlinGermanyCourses,"6,853",6.6,16%,64:36:00
+196,Newcastle UniversityUnited KingdomCoursesEnquireExplore,"20,174",15.2,29%,50:50:00
+197,"St George’s, University of LondonUnited KingdomCoursesEnquire","2,958",13.4,17%,61:39:00
+198,University of TrentoItalyCourses,"16,841",43.2,8%,51:49:00
+199,Paris Diderot University – Paris 7FranceCourses,"27,756",14.8,17%,63:37:00
+200,Queen’s University BelfastUnited KingdomCoursesExplore,"17,940",17.9,30%,54:46:00
+201,Aalborg UniversityDenmarkCoursesExplore,"17,422",15.9,15%,48:52:00
+202,"Birkbeck, University of LondonUnited KingdomCoursesEnquire","9,454",17.2,38%,55:45:00
+203,University of BolognaItalyCoursesExplore,"85,532",22.9,7%,56:44:00
+204,University at BuffaloUnited StatesCoursesEnquire,"25,668",19,19%,47:53:00
+205,University of CalgaryCanadaCoursesEnquire,"28,341",16.5,17%,53:47:00
+206,Chalmers University of TechnologySwedenCoursesVerify Documents,"8,605",11.6,15%,30 : 70
+207,City University of Hong KongHong KongCoursesExplore,"10,015",7.1,28%,51:49:00
+208,Copenhagen Business SchoolDenmarkCoursesVerify Documents,"18,293",42.7,19%,48:52:00
+209,Dalhousie UniversityCanadaCoursesEnquire,"15,064",14.4,18%,55:45:00
+210,University of São PauloBrazilCourses,"81,402",14.6,4%,48:52:00
+211,University of Duisburg-EssenGermanyCoursesExplore,"36,051",46.6,11%,49:51:00
+212,École Normale Supérieure de LyonFranceCourses,"2,218",8,14%,49:51:00
+213,Florida State UniversityUnited StatesCoursesEnquire,"41,226",31.8,7%,55:45:00
+214,University of FribourgSwitzerlandCourses,"10,416",46.9,19%,58:42:00
+215,Fudan UniversityChinaCourses,"32,175",12.2,11%,50:50:00
+216,University of IcelandIcelandCourses,"13,960",25.9,8%,66:34:00
+217,George Washington UniversityUnited StatesCoursesEnquire,"20,541",12,16%,56:44:00
+218,Goethe University FrankfurtGermanyCourses,"31,861",9.3,15%,60:40:00
+219,University of Hawai’i at MānoaUnited StatesCoursesEnquire,"16,773",11.1,13%,55:45:00
+220,Hong Kong Polytechnic UniversityHong KongCoursesExplore,"22,064",25.9,26%,51:49:00
+221,University of Illinois at ChicagoUnited StatesCoursesEnquire,"24,313",9.2,17%,53:47:00
+222,Indiana UniversityUnited StatesCoursesEnquire,"62,468",13.6,13%,53:47:00
+223,University of IowaUnited StatesCoursesEnquire,"27,526",11.6,11%,52:48:00
+224,University of Technology SydneyAustraliaCoursesExplore,"24,519",44.1,31%,53:47:00
+225,Johannes Gutenberg University of MainzGermanyCourses,"35,609",32.6,10%,58:42:00
+226,Joseph Fourier UniversityFranceCourses,"16,130",12.1,13%,n/a
+227,University of KielGermanyCoursesVerify Documents,"24,444",23.8,8%,53:47:00
+228,Université LavalCanadaCoursesExplore,"27,227",16.2,12%,n/a
+229,Medical University of ViennaAustriaCourses,"7,426",2.9,28%,50:50:00
+230,Northeastern UniversityUnited StatesCoursesEnquireAdmissions Support,"18,539",15.1,26%,50:50:00
+231,Oregon Health and Science UniversityUnited StatesCoursesEnquire,"2,838",1.1,3%,65:35:00
+232,University of OtagoNew ZealandCourses,"18,600",20.3,21%,57:43:00
+233,University of OttawaCanadaCoursesEnquireExplore,"36,733",26.3,15%,60:40:00
+234,Paris Descartes UniversityFranceCourses,"34,691",26.9,15%,63:37:00
+235,Peter the Great St Petersburg Polytechnic UniversityRussian FederationCoursesExplore,"17,155",7.2,8%,40 : 60
+236,Politecnico di MilanoItalyCoursesExplore,"30,025",22.2,12%,34 : 66
+237,Royal Veterinary CollegeUnited KingdomCoursesEnquire,"1,819",10.9,17%,77:23:00
+238,Rush UniversityUnited StatesCoursesEnquire,"1,855",2.1,5%,71:29:00
+239,Sapienza University of RomeItalyCourses,"120,986",32.3,7%,59:41:00
+240,University of Science and Technology of ChinaChinaCoursesExplore,"14,290",7.9,2%,n/a
+241,University of South Florida (Tampa)United StatesCoursesEnquire,"31,424",21.5,10%,n/a
+242,Stony Brook UniversityUnited StatesCoursesEnquire,"21,908",10.9,24%,50:50:00
+243,University of StuttgartGermanyCoursesVerify Documents,"24,099",45.4,20%,31 : 69
+244,Swedish University of Agricultural SciencesSwedenCoursesVerify Documents,"3,879",4.6,0%,67:33:00
+245,Technical University of DarmstadtGermanyCourses,"20,300",53.6,18%,28 : 72
+246,Tel Aviv UniversityIsraelCourses,"23,977",24.4,4%,n/a
+247,University of Texas at DallasUnited StatesCoursesExplore,"16,306",22.8,23%,44:56:00
+248,Tilburg UniversityNetherlandsCoursesExplore,"7,576",22.4,10%,49:51:00
+249,Tohoku UniversityJapanCourses,"17,200",5,7%,25 : 75
+250,Tokyo Institute of TechnologyJapanCourses,"9,586",7.3,13%,0.602083333
+251,University of VictoriaCanadaCoursesEnquire,"17,581",21.5,11%,56:44:00
+252,Wake Forest UniversityUnited StatesCoursesEnquireAdmissions Support,"7,326",4.6,5%,51:49:00
+253,Western UniversityCanadaCoursesEnquire,"27,387",20.7,16%,54:46:00
+254,William & MaryUnited StatesCoursesEnquireAdmissions Support,"7,867",11.8,7%,54:46:00
+255,University of the WitwatersrandSouth AfricaCoursesExplore,"23,321",18.6,9%,56:44:00
+256,Aalto UniversityFinlandCourses,"16,099",24.2,17%,32 : 68
+257,Aix-Marseille UniversityFranceCourses,"71,749",45.5,13%,61:39:00
+258,University of BathUnited KingdomCoursesEnquireAdmissions Support,"12,830",18.8,30%,46:54:00
+259,University of BayreuthGermanyCoursesVerify Documents,"12,520",35.5,8%,46:54:00
+260,Bielefeld UniversityGermanyCourses,"21,428",67.8,7%,57:43:00
+261,University of BordeauxFranceCoursesExplore,"51,239",19.4,12%,58:42:00
+262,Charles Darwin UniversityAustraliaCoursesEnquire,"5,570",25.4,15%,67:33:00
+263,Colorado School of MinesUnited StatesCoursesEnquire,"5,287",18.2,12%,26 : 74
+264,"Colorado State University, Fort CollinsUnited StatesCoursesEnquire","26,769",19,5%,52:48:00
+265,University of DelawareUnited StatesCoursesEnquire,"19,262",15.9,10%,56:44:00
+266,Flinders UniversityAustraliaCoursesExplore,"15,655",22.6,15%,63:37:00
+267,University of GeorgiaUnited StatesCoursesEnquire,"33,119",19.9,7%,57:43:00
+268,Griffith UniversityAustraliaCoursesExplore,"30,251",22,21%,0.069444444
+269,Indian Institute of ScienceIndiaCourses,"3,318",8.2,1%,0.847916667
+270,Iowa State UniversityUnited StatesCoursesEnquire,"29,991",17.4,11%,44:56:00
+271,James Cook UniversityAustraliaCoursesEnquire,"11,713",21.9,11%,63:37:00
+272,Justus Liebig University GiessenGermanyCourses,"25,682",53.9,9%,62:38:00
+273,King Abdulaziz UniversitySaudi ArabiaCoursesExplore,"35,889",8.4,21%,57:43:00
+274,Koç UniversityTurkeyCourses,"4,488",14.6,8%,52:48:00
+275,Korea UniversitySouth KoreaCoursesExplore,"24,043",15.8,14%,n/a
+276,University of LiègeBelgiumCoursesVerify Documents,"20,951",25.9,23%,54:46:00
+277,Linköping UniversitySwedenCoursesVerify Documents,"17,866",7.7,10%,52:48:00
+278,Nanjing UniversityChinaCourses,"29,743",13.3,10%,46:54:00
+279,National Tsing Hua UniversityTaiwanCourses,"10,221",13.5,5%,33 : 67
+280,"National University of Ireland, GalwayIrelandCourses","14,067",26.8,14%,56:44:00
+281,University of NewcastleAustraliaCoursesEnquire,"23,508",21.9,18%,56:44:00
+282,North Carolina State UniversityUnited StatesCoursesEnquire,"30,533",13.6,11%,44:56:00
+283,National Research Nuclear University MEPhIRussian FederationCourses,"7,801",7.3,7%,29 : 71
+284,Oregon State UniversityUnited StatesCoursesEnquire,"22,578",16.8,8%,47:53:00
+285,Osaka UniversityJapanCourses,"23,144",7.8,9%,31 : 69
+286,Queen’s UniversityCanadaCoursesEnquireExplore,"20,488",22.1,10%,58:42:00
+287,Technion Israel Institute of TechnologyIsraelCourses,"13,855",19.4,4%,35 : 65
+288,Queensland University of TechnologyAustraliaCoursesExplore,"33,391",35.8,17%,54:46:00
+289,Rensselaer Polytechnic InstituteUnited StatesCoursesEnquireAdmissions Support,"6,671",15,16%,30 : 70
+290,RCSI University of Medicine and Health SciencesIrelandCoursesExplore,"2,473",15.6,63%,55:45:00
+291,Ruhr University BochumGermanyCourses,"38,675",46.3,13%,48:52:00
+292,Saint Louis UniversityUnited StatesCoursesEnquire,"11,919",5.8,8%,58:42:00
+293,Paris-Sorbonne University – Paris 4FranceCourses,"21,580",27.4,21%,69:31:00
+294,Simon Fraser UniversityCanadaCoursesExplore,"26,640",28.3,19%,55:45:00
+295,University of SurreyUnited KingdomCoursesExplore,"12,063",16.6,38%,55:45:00
+296,Syracuse UniversityUnited StatesCoursesEnquireAdmissions Support,"19,660",15.9,15%,55:45:00
+297,University of TasmaniaAustraliaCoursesEnquire,"18,340",23.8,21%,57:43:00
+298,The University of Tennessee-KnoxvilleUnited StatesCoursesEnquire,"24,716",17,5%,n/a
+299,Tomsk Polytechnic UniversityRussian FederationCourses,"11,902",6.9,17%,39 : 61
+300,Tulane UniversityUnited StatesCoursesEnquireAdmissions Support,"11,381",8.4,8%,56:44:00
+301,Umeå UniversitySwedenCourses,"16,667",11.9,7%,60:40:00
+302,TU WienAustriaCourses,"26,419",52,27%,27 : 73
+303,Virginia Polytechnic Institute and State UniversityUnited StatesCoursesExplore,"30,850",18.6,10%,42:58:00
+304,University of WollongongAustraliaCoursesExplore,"16,489",25.4,24%,50:50:00
+305,Zhejiang UniversityChinaCoursesExplore,"47,508",15.9,4%,41:59:00
+306,Aberystwyth UniversityUnited KingdomCoursesEnquire,"9,252",19.2,18%,48:52:00
+307,University of Alaska FairbanksUnited StatesCoursesEnquire,"3,837",8.2,7%,53:47:00
+308,Autonomous University of MadridSpainCourses,"28,296",13,15%,56:44:00
+309,Bangor UniversityUnited KingdomCoursesEnquire,"9,567",19.5,22%,55:45:00
+310,University of BremenGermanyCoursesVerify Documents,"18,590",25.6,11%,50:50:00
+311,University of Cincinnati – UptownUnited StatesCoursesEnquire,"36,108",15.7,6%,54:46:00
+312,University of ConnecticutUnited StatesCoursesEnquire,"25,742",13,11%,51:49:00
+313,Deakin UniversityAustraliaCoursesEnquire,"32,713",30.4,17%,60:40:00
+314,University of EssexUnited KingdomCoursesEnquire,"12,695",19.8,39%,55:45:00
+315,George Mason UniversityUnited StatesCoursesEnquire,"26,622",17,7%,54:46:00
+316,University of GreifswaldGermanyCourses,"10,931",24,6%,55:45:00
+317,Gwangju Institute of Science and TechnologySouth KoreaCourses,"1,394",9.6,8%,25 : 75
+318,University of HohenheimGermanyCoursesVerify Documents,"9,163",41.2,13%,56:44:00
+319,University of InnsbruckAustriaCourses,"18,209",16.9,39%,54:46:00
+320,Kazan Federal UniversityRussian FederationCourses,"23,321",12.2,6%,69:31:00
+321,University of KentUnited KingdomCoursesExplore,"17,638",14.4,27%,53:47:00
+322,Leibniz University HannoverGermanyCourses,"22,401",62.7,12%,41:59:00
+323,Macquarie UniversityAustraliaCoursesExplore,"27,930",20,44%,55:45:00
+324,Medical College of WisconsinUnited StatesCoursesEnquire,"1,211",0.6,5%,48:52:00
+325,University of MilanItalyCourses,"58,618",24.3,5%,60:40:00
+326,University of Milan-BicoccaItalyCourses,"33,370",72.5,5%,60:40:00
+327,Montpellier UniversityFranceCourses,"36,731",18.4,14%,51:49:00
+328,Nagoya UniversityJapanCourses,"15,529",7.9,10%,29 : 71
+329,University of Naples Federico IIItalyCourses,"83,653",64.2,1%,n/a
+330,National Chiao Tung UniversityTaiwanCourses,"12,646",16.6,5%,27 : 73
+331,National Taiwan University of Science and Technology (Taiwan Tech)TaiwanCoursesExplore,"7,446",17.4,11%,34 : 66
+332,University of NavarraSpainCoursesVerify Documents,"11,259",10.6,16%,52:48:00
+333,University of Nebraska-LincolnUnited StatesCoursesExplore,"21,789",16.4,9%,46:54:00
+334,Örebro UniversitySwedenCourses,"8,788",15.8,2%,61:39:00
+335,University of OregonUnited StatesCoursesEnquire,"24,418",20.2,11%,52:48:00
+336,University of PaduaItalyCourses,"62,577",18.3,4%,56:44:00
+337,University of PaviaItalyCourses,"22,958",40.6,6%,56:44:00
+338,University of PlymouthUnited KingdomCoursesEnquire,"24,121",25.9,13%,52:48:00
+339,Shanghai Jiao Tong UniversityChinaCoursesExplore,"38,191",12.8,6%,37 : 63
+340,University of Southern DenmarkDenmarkCourses,"22,210",12.7,16%,52:48:00
+341,Stellenbosch UniversitySouth AfricaCoursesExplore,"21,849",23,8%,53:47:00
+342,University of StrasbourgFranceCourses,"46,208",17.8,21%,58:42:00
+343,TU Dortmund UniversityGermanyCourses,"29,143",88.9,10%,47:53:00
+344,Toulouse 1 Capitole UniversityFranceCourses,"19,011",43.8,19%,59:41:00
+345,University of TriesteItalyCourses,"18,135",25.8,9%,56:44:00
+346,University of TurinItalyCourses,"67,552",66,6%,62:38:00
+347,University of TurkuFinlandCourses,"12,326",14.6,5%,61:39:00
+348,Vrije Universiteit BrusselBelgiumCoursesVerify Documents,"9,020",17.1,16%,55:45:00
+349,VSB - Technical University of OstravaCzech RepublicCoursesExplore,"14,991",23.9,5%,49:51:00
+350,Yonsei UniversitySouth KoreaCourses,"24,774",11.6,14%,n/a
+351,York UniversityCanadaCoursesExplore,"48,007",39.4,9%,59:41:00
+352,SUNY Binghamton UniversityUnited StatesCoursesEnquire,"15,799",23.3,13%,48:52:00
+353,University of CreteGreeceCourses,"14,650",26.9,5%,63:37:00
+354,University of CyprusCyprusCoursesExplore,"6,880",22.9,8%,69:31:00
+355,Drexel UniversityUnited StatesCoursesEnquire,"20,713",10.8,17%,48:52:00
+356,University of Eastern FinlandFinlandCourses,"10,798",17.3,6%,64:36:00
+357,University of FlorenceItalyCourses,"54,290",17.2,7%,59:41:00
+358,University of St GallenSwitzerlandCourses,"6,848",10.8,34%,32 : 68
+359,Graz University of TechnologyAustriaCourses,"7,542",12.5,16%,0.970833333
+360,University of GuelphCanadaCoursesEnquire,"21,643",28.3,4%,60:40:00
+361,Hanyang UniversitySouth KoreaCoursesExplore,"16,729",10.4,19%,n/a
+362,Hong Kong Baptist UniversityHong KongCoursesExplore,"10,441",11,25%,61:39:00
+363,University of HoustonUnited StatesCoursesEnquire,"40,325",43.7,9%,50:50:00
+364,Indian Institute of Technology BombayIndiaCourses,"8,327",14.9,1%,0.725
+365,Instituto Superior Técnico LisboaPortugalCourses,"11,778",16.9,9%,27 : 73
+366,University of JyväskyläFinlandCourses,"9,703",15.2,5%,62:38:00
+367,La Trobe UniversityAustraliaCoursesEnquire,"22,037",29,27%,63:37:00
+368,Loughborough UniversityUnited KingdomCoursesEnquire,"13,951",15.9,22%,38 : 62
+369,University of ManitobaCanadaCoursesEnquire,"28,576",27.8,11%,55:45:00
+370,Mizzou - University of MissouriUnited StatesCoursesEnquire,"29,885",14.1,5%,53:47:00
+371,University of Modena and Reggio EmiliaItalyCourses,"19,693",25.3,6%,54:46:00
+372,University of MontanaUnited StatesCoursesEnquire,"12,470",15.2,3%,54:46:00
+373,Maynooth UniversityIrelandCourses,"7,653",28,11%,55:45:00
+374,University of Nebraska Medical CenterUnited StatesCoursesEnquire,"2,857",2.6,8%,67:33:00
+375,University of New Mexico (Main campus)United StatesCoursesEnquire,"23,618",6.5,4%,67:33:00
+376,Norwegian University of Science and TechnologyNorwayCoursesVerify Documents,"17,381",13.9,9%,46:54:00
+377,University of OuluFinlandCoursesExplore,"14,056",8.5,6%,49:51:00
+378,Panthéon-Sorbonne University – Paris 1FranceCourses,"42,215",34.3,20%,59:41:00
+379,Polytechnic University of TurinItalyCourses,"27,709",19.6,16%,29 : 71
+380,University of Rome IIIItalyCourses,"36,353",61.2,5%,59:41:00
+381,Bilkent UniversityTurkeyCourses,"9,370",13.6,3%,46:54:00
+382,Sabancı UniversityTurkeyCoursesExplore,"2,739",15.9,6%,39 : 61
+383,San Diego State UniversityUnited StatesCoursesEnquire,"27,420",31.7,5%,57:43:00
+384,University of South AustraliaAustraliaCoursesEnquire,"18,971",26.2,32%,59:41:00
+385,University of South Carolina-ColumbiaUnited StatesCoursesEnquire,"29,336",16.3,1%,55:45:00
+386,University of South DakotaUnited StatesCoursesEnquire,"8,003",17.1,2%,61:39:00
+387,University of CampinasBrazilCourses,"27,095",15.3,3%,48:52:00
+388,University of StirlingUnited KingdomCoursesExplore,"7,828",15.9,22%,61:39:00
+389,Sun Yat-sen UniversityChinaCoursesExplore,"51,351",16.6,8%,51:49:00
+390,Swansea UniversityUnited KingdomCoursesEnquire,"12,801",17.1,20%,49:51:00
+391,Swinburne University of TechnologyAustraliaCoursesEnquire,"20,314",36.5,32%,44:56:00
+392,University of TartuEstoniaCourses,"10,269",13,3%,66:34:00
+393,Temple UniversityUnited StatesCoursesEnquire,"33,268",13.3,5%,51:49:00
+394,The University of Texas at San AntonioUnited StatesCoursesEnquire,"27,520",26.9,6%,48:52:00
+395,UiT The Arctic University of NorwayNorwayCourses,"10,398",12.2,10%,60:40:00
+396,Université Libre de BruxellesBelgiumCoursesVerify Documents,"23,819",26.1,32%,54:46:00
+397,Lille 2 University – Health and LawFranceCourses,"26,894",38.5,8%,58:42:00
+398,University College CorkIrelandCourses,"15,805",22.3,15%,55:45:00
+399,Verona UniversityItalyCourses,"25,250",19.7,7%,65:35:00
+400,Victoria University of WellingtonNew ZealandCoursesEnquire,"17,142",21.1,21%,55:45:00
+401,Washington State UniversityUnited StatesCoursesEnquire,"24,550",18.3,7%,50:50:00
+402,Wayne State UniversityUnited StatesCoursesEnquire,"23,065",10.7,6%,57:43:00
+403,American UniversityUnited StatesCoursesEnquire,"11,604",12,12%,60:40:00
+404,Aston UniversityUnited KingdomCoursesEnquire,"8,834",17.8,31%,48:52:00
+405,University of AveiroPortugalCourses,"10,791",17.8,10%,51:49:00
+406,University of Bari Aldo MoroItalyCourses,"51,560",65.1,2%,65:35:00
+407,Bar-Ilan UniversityIsraelCourses,"17,503",16,5%,59:41:00
+408,Makerere UniversityUgandaCourses,"37,340",29.4,9%,50:50:00
+409,Bournemouth UniversityUnited KingdomCoursesEnquire,"14,907",25.9,18%,53:47:00
+410,University of BresciaItalyCourses,"14,076",25,7%,48:52:00
+411,Brno University of TechnologyCzech RepublicCourses,"23,694",21.3,15%,27 : 73
+412,Brunel University LondonUnited KingdomCoursesEnquire,"12,613",17.6,38%,46:54:00
+413,Ca’ Foscari University of VeniceItalyCourses,"19,267",38.3,7%,66:34:00
+414,University of CagliariItalyCourses,"30,638",51,1%,62:38:00
+415,University of CanterburyNew ZealandCoursesEnquireExplore,"12,187",16.5,20%,51:49:00
+416,Catholic University of the Sacred HeartItalyCourses,"30,304",18.9,10%,n/a
+417,Charles University in PragueCzech RepublicCourses,"51,438",13,15%,62:38:00
+418,"China Medical University, TaiwanTaiwanCoursesExplore","7,983",15.4,8%,53:47:00
+419,"City, University of LondonUnited KingdomCoursesEnquire","13,053",17.8,50%,55:45:00
+420,Claude Bernard University Lyon 1FranceCourses,"35,308",16.1,11%,50:50:00
+421,University of CoimbraPortugalCourses,"22,795",19,11%,55:45:00
+422,Complutense University of MadridSpainCoursesVerify Documents,"86,519",17.5,13%,62:38:00
+423,Concordia UniversityCanadaCoursesEnquire,"31,017",30.3,27%,50:50:00
+424,Curtin UniversityAustraliaCoursesExplore,"30,333",17.1,38%,53:47:00
+425,Dublin City UniversityIrelandCourses,"8,546",22.9,17%,51:49:00
+426,East China University of Science and TechnologyChinaCourses,"27,140",15.5,5%,n/a
+427,Ewha Womans UniversitySouth KoreaCourses,"17,625",14.4,6%,100:00:00
+428,Federico Santa María Technical UniversityChileCoursesExplore,"11,718",34,2%,24 : 76
+429,University of FerraraItalyCourses,"18,882",30.2,7%,56:44:00
+430,Florida International UniversityUnited StatesCoursesExplore,"32,566",25.9,7%,56:44:00
+431,University of GenoaItalyCourses,"37,373",29.5,9%,56:44:00
+432,Georgia State UniversityUnited StatesCoursesEnquire,"28,534",20.4,5%,59:41:00
+433,University of GrazAustriaCourses,"20,584",26.8,12%,65:35:00
+434,Heriot-Watt UniversityUnited KingdomCoursesEnquire,"8,773",17.8,43%,41:59:00
+435,Hokkaido UniversityJapanCourses,"18,162",8.2,9%,29 : 71
+436,Howard UniversityUnited StatesCoursesEnquire,"10,297",6.8,5%,65:35:00
+437,University of HullUnited KingdomCoursesEnquire,"15,141",18.7,20%,52:48:00
+438,University of IdahoUnited StatesCoursesEnquire,"11,641",21.5,6%,47:53:00
+439,Indian Institute of Technology DelhiIndiaCourses,"8,371",17.3,1%,0.806944444
+440,Indian Institute of Technology KharagpurIndiaCourses,"9,928",17.5,0%,0.684027778
+441,Indian Institute of Technology MadrasIndiaCourses,"8,234",15.9,1%,0.847916667
+442,University of IoanninaGreeceCourses,"20,825",36.3,4%,58:42:00
+443,Iran University of Science and TechnologyIranCourses,"10,311",23.9,0%,24 : 76
+444,Johannes Kepler University of LinzAustriaCourses,"19,646",29.1,10%,48:52:00
+445,University of KaiserslauternGermanyCoursesVerify Documents,"14,184",54.4,14%,36 : 64
+446,Keele UniversityUnited KingdomCoursesEnquire,"8,397",15.7,20%,55:45:00
+447,University of KwaZulu-NatalSouth AfricaCoursesExplore,"30,572",24.9,6%,58:42:00
+448,Kyung Hee UniversitySouth KoreaCoursesExplore,"24,356",17.4,14%,n/a
+449,Kyushu UniversityJapanCourses,"18,925",6.7,8%,28 : 72
+450,Lehigh UniversityUnited StatesCoursesEnquireAdmissions Support,"6,300",11.3,15%,44:56:00
+451,Louisiana State UniversityUnited StatesCoursesEnquire,"28,116",20.1,5%,52:48:00
+452,University of MacauMacaoCoursesExplore,"8,521",14.9,31%,58:42:00
+453,Marche Polytechnic UniversityItalyCourses,"16,589",23,4%,45:55:00
+454,"University of Maryland, Baltimore CountyUnited StatesCoursesEnquire","13,908",18.1,7%,46:54:00
+455,Murdoch UniversityAustraliaCoursesExplore,"16,606",32.8,43%,59:41:00
+456,University of NantesFranceCourses,"33,866",22.2,11%,56:44:00
+457,National and Kapodistrian University of AthensGreeceCourses,"63,052",32.3,9%,61:39:00
+458,National Autonomous University of MexicoMexicoCourses,"137,378",11.6,5%,51:49:00
+459,National Cheng Kung University (NCKU)TaiwanCoursesExplore,"21,234",14.4,11%,36 : 64
+460,National Institute of Applied Sciences of Lyon (INSA Lyon)FranceCourses,"6,137",8.2,31%,31 : 69
+461,National Yang-Ming UniversityTaiwanCourses,"4,496",5.4,2%,48:52:00
+462,University of NeuchâtelSwitzerlandCourses,"4,358",8.5,22%,59:41:00
+463,NOVA University of LisbonPortugalCourses,"18,867",17.9,7%,49:51:00
+464,University of Nice Sophia AntipolisFranceCourses,"27,304",20.3,22%,56:44:00
+465,Novosibirsk State UniversityRussian FederationCourses,"7,131",7.1,13%,52:48:00
+466,The Open UniversityUnited KingdomCoursesEnquire,"76,683",35.9,9%,61:39:00
+467,Oxford Brookes UniversityUnited KingdomCoursesEnquire,"14,238",18.5,25%,57:43:00
+468,University of PalermoItalyCourses,"43,875",22.4,1%,60:40:00
+469,University of ParmaItalyCourses,"26,937",29.1,7%,56:44:00
+470,University of PisaItalyCourses,"47,247",18,3%,52:48:00
+471,Universitat Politècnica de CatalunyaSpainCourses,"22,893",11.7,28%,0.561111111
+472,Pontifical Catholic University of ChileChileCourses,"25,075",15.3,7%,n/a
+473,University of PortoPortugalCourses,"32,720",18.8,9%,54:46:00
+474,University of PortsmouthUnited KingdomCoursesEnquire,"20,161",19.1,23%,45:55:00
+475,RMIT UniversityAustraliaCoursesEnquire,"29,501",18.1,24%,47:53:00
+476,University of Rome II – Tor VergataItalyCourses,"33,504",26.5,6%,52:48:00
+477,Rovira i Virgili UniversitySpainCourses,"12,533",12.8,9%,61:39:00
+478,Saint Petersburg State UniversityRussian FederationCourses,"20,836",5.2,7%,60:40:00
+479,University of SalentoItalyCourses,"19,959",58.4,1%,64:36:00
+480,University of San FranciscoUnited StatesCoursesEnquire,"10,788",17,17%,63:37:00
+481,University of SaskatchewanCanadaCoursesEnquireExplore,"19,028",16.3,14%,57:43:00
+482,Sharif University of TechnologyIranCourses,"10,977",18.7,0%,27 : 73
+483,University of SienaItalyCourses,"18,846",23.6,5%,59:41:00
+484,Southern Cross UniversityAustraliaCoursesEnquire,"9,026",32.8,15%,66:34:00
+485,SUNY University at AlbanyUnited StatesCoursesEnquire,"15,387",18.5,8%,51:49:00
+486,University of StrathclydeUnited KingdomCoursesEnquire,"15,705",20.2,20%,50:50:00
+487,University of TampereFinlandCourses,"10,045",9.5,4%,66:34:00
+488,Boğaziçi UniversityTurkeyCourses,"11,506",25,7%,50:50:00
+489,Tampere University of TechnologyFinlandCourses,"6,147",15.5,13%,1.011805556
+490,Tokyo Medical and Dental University (TMDU)JapanCourses,"2,872",3.3,7%,51:49:00
+491,Tokyo Metropolitan UniversityJapanCourses,"9,303",9.9,3%,35 : 65
+492,University of TsukubaJapanCourses,"15,930",12.6,16%,38 : 62
+493,University of UlsanSouth KoreaCourses,"14,037",13.3,3%,n/a
+494,Ulster UniversityUnited KingdomCoursesEnquire,"19,622",15.8,15%,55:45:00
+495,Université du Québec à MontréalCanadaCoursesEnquire,"27,046",24.7,9%,61:39:00
+496,Universiti Teknologi MalaysiaMalaysiaCourses,"16,270",9,13%,43:57:00
+497,University of Urbino Carlo BoItalyCourses,"13,435",37.4,7%,61:39:00
+498,University of ValenciaSpainCourses,"58,413",15.4,9%,60:40:00
+499,University of WaikatoNew ZealandCoursesEnquire,"10,159",17,25%,57:43:00
+500,Western Sydney UniversityAustraliaCoursesExplore,"30,704",32.2,9%,56:44:00
+501,Wuhan UniversityChinaCoursesExplore,"46,227",14.4,7%,n/a
+502,Xiamen UniversityChinaCourses,"32,921",12.3,5%,52:48:00
+503,American University of BeirutLebanonCourses,"7,695",8.9,25%,51:49:00
+504,Amirkabir University of TechnologyIranCourses,"14,080",25.6,1%,34 : 66
+505,"University of the Andes, ColombiaColombiaCourses","15,773",16.9,2%,44:56:00
+506,University of ArkansasUnited StatesCoursesEnquire,"22,819",21.2,5%,50:50:00
+507,Auburn UniversityUnited StatesCoursesEnquire,"22,386",17.6,4%,51:49:00
+508,Babeş-Bolyai UniversityRomaniaCourses,"37,915",23.5,2%,67:33:00
+509,Bauman Moscow State Technical UniversityRussian FederationCourses,"18,808",4,4%,1.011805556
+510,Blaise Pascal UniversityFranceCourses,"15,619",7.1,17%,55:45:00
+511,University of BurgundyFranceCourses,"26,612",20.8,11%,54:46:00
+512,University of CanberraAustraliaCoursesExplore,"11,221",28.6,24%,54:46:00
+513,Ben-Gurion University of the NegevIsraelCourses,"16,695",12.6,2%,49:51:00
+514,Carleton UniversityCanadaCoursesEnquire,"25,036",29.8,18%,47:53:00
+515,University of CataniaItalyCourses,"55,859",49.7,1%,61:39:00
+516,Central Queensland UniversityAustraliaCoursesExplore,"11,452",29.6,27%,59:41:00
+517,University of ChileChileCourses,"29,207",14.2,3%,47:53:00
+518,China Agricultural UniversityChinaCourses,"19,342",12,1%,57:43:00
+519,Chung-Ang UniversitySouth KoreaCourses,"13,015",17.4,17%,45:55:00
+520,Czech Technical University in PragueCzech RepublicCourses,"22,751",12,0%,0.069444444
+521,De Montfort UniversityUnited KingdomCoursesEnquire,"16,812",19.1,21%,57:43:00
+522,East China Normal UniversityChinaCoursesExplore,"29,623",14,11%,63:37:00
+523,Edith Cowan UniversityAustraliaCoursesExplore,"16,671",34.2,18%,61:39:00
+524,Federal University of Rio de JaneiroBrazilCourses,"52,878",12.8,2%,54:46:00
+525,University of GranadaSpainCoursesVerify Documents,"53,476",16,6%,56:44:00
+526,University of HaifaIsraelCourses,"17,758",30.8,1%,65:35:00
+527,Harbin Institute of TechnologyChinaCourses,"31,658",10.8,7%,29 : 71
+528,University of HertfordshireUnited KingdomCoursesEnquire,"19,665",19.4,27%,54:46:00
+529,Hiroshima UniversityJapanCourses,"14,686",8.2,5%,36 : 64
+530,Huazhong University of Science and TechnologyChinaCoursesExplore,"57,242",17.7,3%,34 : 66
+531,Indian Institute of Technology GuwahatiIndiaCourses,"4,710",14.2,1%,0.643055556
+532,Indian Institute of Technology KanpurIndiaCourses,"6,167",12.2,0%,0.602083333
+533,Indian Institute of Technology RoorkeeIndiaCourses,"8,061",18.7,1%,0.765972222
+534,Isfahan University of TechnologyIranCourses,"10,964",26.5,1%,39 : 61
+535,Istanbul Technical UniversityTurkeyCourses,"34,550",16,5%,34 : 66
+536,Jadavpur UniversityIndiaCourses,"10,697",16.1,0%,30 : 70
+537,Kanazawa UniversityJapanCourses,"10,546",10.4,5%,36 : 64
+538,Kansas State UniversityUnited StatesCoursesEnquire,"21,379",15.1,10%,50:50:00
+539,Keio UniversityJapanCourses,"33,751",11.9,5%,32 : 68
+540,Kent State UniversityUnited StatesCoursesEnquire,"23,122",19,7%,58:42:00
+541,King Fahd University of Petroleum and MineralsSaudi ArabiaCourses,"6,898",7.1,19%,0.069444444
+542,King Saud UniversitySaudi ArabiaCourses,"40,666",13.4,6%,n/a
+543,University of La LagunaSpainCourses,"22,422",14.9,5%,58:42:00
+544,Lappeenranta-Lahti University of Technology LUTFinlandCoursesExplore,"3,486",23.9,19%,31 : 69
+545,University of LimerickIrelandCourses,"12,212",19.8,13%,46:54:00
+546,University of LisbonPortugalCourses,"47,849",17.5,9%,51:49:00
+547,Liverpool John Moores UniversityUnited KingdomCoursesEnquire,"18,513",19.8,13%,52:48:00
+548,Mahidol UniversityThailandCoursesExplore,"27,402",7.5,3%,63:37:00
+549,Manchester Metropolitan UniversityUnited KingdomCoursesEnquire,"28,037",18.2,14%,57:43:00
+550,University of MariborSloveniaCourses,"14,531",17.3,4%,n/a
+551,Masaryk UniversityCzech RepublicCourses,"40,898",26.6,17%,62:38:00
+552,University of the Basque CountrySpainCourses,"46,373",15.3,5%,53:47:00
+553,Massey UniversityNew ZealandCoursesEnquire,"19,101",16.8,15%,62:38:00
+554,Memorial University of NewfoundlandCanadaCoursesExplore,"15,464",14.6,10%,59:41:00
+555,Middle East Technical UniversityTurkeyCourses,"25,779",22.2,7%,44:56:00
+556,University of MinhoPortugalCourses,"19,090",18.8,9%,52:48:00
+557,Missouri University of Science and TechnologyUnited StatesCoursesEnquire,"7,647",15.5,12%,1.011805556
+558,Montana State UniversityUnited StatesCoursesEnquire,"12,331",17.8,4%,46:54:00
+559,Monterrey Institute of TechnologyMexicoCoursesExplore,"14,353",20.5,12%,40 : 60
+560,National Central UniversityTaiwanCourses,"10,915",9.8,6%,31 : 69
+561,National Sun Yat-Sen UniversityTaiwanCourses,"9,336",19.6,4%,37 : 63
+562,National Taiwan Normal UniversityTaiwanCoursesExplore,"11,072",13,19%,57:43:00
+563,National Technical University of AthensGreeceCourses,"14,780",26.9,7%,36 : 64
+564,Moscow Institute of Physics and Technology (MIPT)Russian FederationCourses,"5,395",7,12%,n/a
+565,New Jersey Institute of TechnologyUnited StatesCoursesEnquire,"10,646",26.2,17%,25 : 75
+566,New Mexico State University (Main campus)United StatesCoursesEnquire,"15,035",18.8,7%,54:46:00
+567,University of North Carolina at GreensboroUnited StatesCoursesEnquire,"16,446",19.2,2%,66:34:00
+568,Oklahoma State UniversityUnited StatesCoursesEnquire,"21,270",21.4,7%,49:51:00
+569,Osaka City UniversityJapanCourses,"8,604",10.1,4%,36 : 64
+570,Otto von Guericke University of MagdeburgGermanyCourses,"14,104",13.1,13%,42:58:00
+571,University of OviedoSpainCourses,"24,210",13.7,5%,54:46:00
+572,Palacký University OlomoucCzech RepublicCourses,"18,540",11.4,9%,70:30:00
+573,Panjab UniversityIndiaCourses,"16,691",23.9,1%,46:54:00
+574,Paris Dauphine UniversityFranceCourses,"9,565",15.4,28%,53:47:00
+575,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)BrazilCourses,"14,300",21.2,3%,49:51:00
+576,Portland State UniversityUnited StatesCoursesEnquire,"20,398",22.2,8%,54:46:00
+577,University of PretoriaSouth AfricaCoursesExplore,"37,314",20,8%,57:43:00
+578,Pusan National UniversitySouth KoreaCoursesExplore,"24,929",19.7,12%,51:49:00
+579,Quaid-i-Azam UniversityPakistanCourses,"12,688",25.7,0%,53:47:00
+580,University of ReginaCanadaCoursesExplore,"11,550",22.8,12%,61:39:00
+581,Renmin University of ChinaChinaCourses,"24,954",12.7,6%,n/a
+582,University of Rennes 1FranceCourses,"22,186",13.9,12%,50:50:00
+583,University of SalamancaSpainCourses,"31,035",17.9,12%,58:42:00
+584,University of Santiago de CompostelaSpainCourses,"29,085",15.3,6%,63:37:00
+585,Semmelweis UniversityHungaryCoursesExplore,"12,920",10.9,25%,64:36:00
+586,University of SevilleSpainCourses,"64,931",17.5,7%,55:45:00
+587,Université de SherbrookeCanadaCoursesEnquire,"13,438",5.4,5%,54:46:00
+588,Soochow UniversityChinaCoursesExplore,"36,465",12.9,2%,78:22:00
+589,South China University of TechnologyChinaCourses,"41,438",17.7,3%,33 : 67
+590,Tallinn University of TechnologyEstoniaCourses,"14,061",28.6,5%,44:56:00
+591,Tehran University of Medical SciencesIranCourses,"13,912",9,1%,62:38:00
+592,University of Texas at ArlingtonUnited StatesCoursesEnquire,"29,396",10.5,10%,60:40:00
+593,Tianjin UniversityChinaCourses,"29,693",12.2,1%,n/a
+594,Tokyo University of Agriculture and TechnologyJapanCourses,"5,865",14.4,5%,27 : 73
+595,University of ToledoUnited StatesCoursesEnquire,"19,465",17.5,9%,50:50:00
+596,Tongji UniversityChinaCourses,"37,394",13.5,10%,38 : 62
+597,The University of TulsaUnited StatesCoursesEnquire,"4,597",12.5,25%,43:57:00
+598,United Arab Emirates UniversityUnited Arab EmiratesCoursesExplore,"9,221",12.5,26%,76:24:00
+599,University of WarsawPolandCourses,"49,292",14.1,7%,67:33:00
+600,University of Wisconsin-MilwaukeeUnited StatesCoursesEnquire,"22,542",18.4,5%,52:48:00
+601,Xi’an Jiaotong UniversityChinaCourses,"29,863",12.3,4%,34 : 66
+602,University of ZaragozaSpainCourses,"31,046",11.8,5%,55:45:00
+603,University of A CoruñaSpainCourses,"17,062",13,2%,52:48:00
+604,"Adam Mickiewicz University, PoznańPolandCourses","40,633",15.6,1%,71:29:00
+605,AGH University of Science and TechnologyPolandCourses,"35,569",17,0%,0.069444444
+606,Ajou UniversitySouth KoreaCourses,"12,706",11.3,2%,33 : 67
+607,University of AlcaláSpainCourses,"30,812",25.1,18%,53:47:00
+608,Alexandria UniversityEgyptCourses,"127,431",23.3,1%,46:54:00
+609,Alexandru Ioan Cuza UniversityRomaniaCourses,"25,724",33,5%,63:37:00
+610,Aligarh Muslim UniversityIndiaCourses,"11,197",10.5,2%,0.765972222
+611,American University of SharjahUnited Arab EmiratesCourses,"5,226",14.1,82%,48:52:00
+612,Amrita Vishwa VidyapeethamIndiaCourses,"17,273",6.6,8%,n/a
+613,Anadolu UniversityTurkeyCourses,"379,231",162.6,1%,78:22:00
+614,Andhra UniversityIndiaCourses,"10,407",20.2,3%,36 : 64
+615,University of AntioquiaColombiaCourses,"38,872",23,1%,50:50:00
+616,Aristotle University of ThessalonikiGreeceCourses,"46,288",22.2,9%,52:48:00
+617,"Asia University, TaiwanTaiwanCourses","12,119",26.3,3%,53:47:00
+618,Athens University of Economics and BusinessGreeceCourses,"13,167",57.5,6%,47:53:00
+619,Auckland University of TechnologyNew ZealandCoursesExplore,"18,981",18.1,38%,58:42:00
+620,Austral University of ChileChileCourses,"13,794",17.8,1%,47:53:00
+621,Beijing Institute of TechnologyChinaCourses,"25,983",12.6,3%,35 : 65
+622,Belarusian State UniversityBelarusCourses,"29,303",10.6,6%,69:31:00
+623,University of BelgradeSerbiaCourses,"96,968",28.3,4%,60:40:00
+624,"Birla Institute of Technology and Science, PilaniIndiaCourses","11,837",19.5,0%,0.970833333
+625,University of BradfordUnited KingdomCoursesEnquire,"11,065",20.5,32%,53:47:00
+626,University of BrasíliaBrazilCourses,"45,880",14.5,2%,52:48:00
+627,University of BrightonUnited KingdomCoursesEnquire,"16,924",19.5,19%,58:42:00
+628,University of BucharestRomaniaCourses,"31,806",24.9,2%,70:30:00
+629,Budapest University of Technology and EconomicsHungaryCourses,"22,447",22.1,4%,32 : 68
+630,Cairo UniversityEgyptCourses,"231,941",39.1,2%,47:53:00
+631,University of CalcuttaIndiaCourses,"18,511",32.5,0%,n/a
+632,"California State University, Long BeachUnited StatesCoursesEnquire","29,594",32.3,5%,58:42:00
+633,Capital Medical UniversityChinaCourses,"11,506",7.1,3%,70:30:00
+634,University of Castilla-La ManchaSpainCoursesExplore,"26,381",14.3,3%,56:44:00
+635,University of Central LancashireUnited KingdomCoursesEnquire,"18,542",17.5,17%,57:43:00
+636,University of Cergy-PontoiseFranceCourses,"17,000",9.2,11%,53:47:00
+637,Chang Gung UniversityTaiwanCourses,"7,506",12.6,0%,42:58:00
+638,Carlos III University of MadridSpainCoursesExplore,"15,730",11.4,9%,43:57:00
+639,"University of Chemistry and Technology, PragueCzech RepublicCourses","4,699",11,18%,n/a
+640,Chiang Mai UniversityThailandCourses,"35,617",16.5,1%,0.847916667
+641,Chiba UniversityJapanCourses,"14,554",12.3,5%,37 : 63
+642,"China University of Geosciences, WuhanChinaCourses","29,483",20.7,2%,n/a
+643,"China University of Petroleum, BeijingChinaCourses","14,579",19.4,6%,n/a
+644,Jeonbuk National UniversitySouth KoreaCoursesExplore,"23,270",15,3%,45:55:00
+645,Chongqing UniversityChinaCourses,"43,955",16,3%,n/a
+646,Chonnam National UniversitySouth KoreaCoursesExplore,"35,779",18.5,3%,41:59:00
+647,Chulalongkorn UniversityThailandCoursesExplore,"38,719",14.5,2%,59:41:00
+648,Chung Yuan Christian UniversityTaiwanCourses,"15,020",30.2,3%,41:59:00
+649,Chungnam National UniversitySouth KoreaCourses,"18,361",17.2,3%,n/a
+650,Clemson UniversityUnited StatesCoursesEnquire,"19,198",17.1,8%,46:54:00
+651,Comenius University in BratislavaSlovakiaCourses,"20,879",9.7,10%,54:46:00
+652,Coventry UniversityUnited KingdomCoursesExplore,"21,934",14.8,35%,47:53:00
+653,Dalian University of TechnologyChinaCourses,"34,326",15.2,2%,33 : 67
+654,University of DebrecenHungaryCoursesExplore,"29,714",20.3,13%,57:43:00
+655,University of DelhiIndiaCourses,"32,567",22.9,1%,50:50:00
+656,University of DhakaBangladeshCourses,"62,716",6.9,5%,34 : 66
+657,Dublin Institute of TechnologyIrelandCourses,"13,839",18.9,25%,41:59:00
+658,Ehime UniversityJapanCourses,"8,394",9.9,1%,39 : 61
+659,University of Electronic Science and Technology of ChinaChinaCoursesExplore,"21,689",9.8,0%,0.929861111
+660,Eötvös Loránd UniversityHungaryCoursesExplore,"28,698",22.4,4%,n/a
+661,Erciyes UniversityTurkeyCourses,"28,079",28,2%,46:54:00
+662,Universidade Federal da BahiaBrazilCourses,"39,861",17.9,1%,47:53:00
+663,Federal University of Minas GeraisBrazilCourses,"42,612",13.5,1%,55:45:00
+664,Universidade Federal do Paraná (UFPR)BrazilCourses,"21,850",11.2,1%,n/a
+665,Universidade Federal do Rio Grande do SulBrazilCourses,"38,743",14.8,1%,50:50:00
+666,Universidade Federal de Santa CatarinaBrazilCourses,"26,078",12.6,1%,48:52:00
+667,Federal University of São CarlosBrazilCourses,"18,587",16.9,0%,n/a
+668,Federal University of ViçosaBrazilCourses,"13,163",11.4,3%,70:30:00
+669,Federal University of LavrasBrazilCourses,"10,350",20.9,1%,53:47:00
+670,Feng Chia UniversityTaiwanCourses,"20,213",23.9,7%,36 : 64
+671,Florida Institute of TechnologyUnited StatesCoursesEnquire,"4,408",13.7,26%,34 : 66
+672,Fu Jen Catholic UniversityTaiwanCourses,"25,951",22.8,4%,59:41:00
+673,Gdańsk University of TechnologyPolandCourses,"25,217",23.3,1%,39 : 61
+674,University of GhanaGhanaCourses,"37,274",37.5,2%,41:59:00
+675,Gifu UniversityJapanCourses,"7,318",12.4,4%,35 : 65
+676,Glasgow Caledonian UniversityUnited KingdomCoursesEnquire,"13,527",21.6,16%,60:40:00
+677,University of GreenwichUnited KingdomCoursesEnquire,"18,096",24.6,32%,53:47:00
+678,Hacettepe UniversityTurkeyCourses,"39,606",20.4,4%,56:44:00
+679,University of HuddersfieldUnited KingdomCoursesEnquire,"15,436",18.1,25%,54:46:00
+680,University of TehranIranCourses,"53,802",27,1%,45:55:00
+681,Hunan UniversityChinaCourses,"42,756",24.7,2%,43:57:00
+682,University of IbadanNigeriaCourses,"26,247",17.1,1%,45:55:00
+683,University of IndonesiaIndonesiaCourses,"43,565",15.8,0%,51:49:00
+684,Inha UniversitySouth KoreaCourses,"20,353",24.1,3%,36 : 64
+685,I-Shou UniversityTaiwanCourses,"16,263",29.9,10%,45:55:00
+686,Istanbul UniversityTurkeyCourses,"82,096",41.1,6%,44:56:00
+687,Jagiellonian UniversityPolandCourses,"42,835",11.5,5%,67:33:00
+688,Jilin UniversityChinaCoursesExplore,"65,605",13.6,3%,46:54:00
+689,The University of JordanJordanCourses,"35,577",13.6,13%,67:33:00
+690,Jordan University of Science and TechnologyJordanCourses,"24,686",16.4,23%,55:45:00
+691,Juntendo UniversityJapanCourses,"3,955",3.7,1%,52:48:00
+692,K.N. Toosi University of TechnologyIranCourses,"7,146",24.6,0%,32 : 68
+693,Kaohsiung Medical UniversityTaiwanCourses,"7,009",12.6,5%,56:44:00
+694,Khon Kaen UniversityThailandCourses,"39,669",16.9,1%,62:38:00
+695,King Mongkut’s University of Technology ThonburiThailandCourses,"17,791",23.7,1%,42:58:00
+696,Kingston UniversityUnited KingdomCoursesEnquire,"20,778",20.9,34%,53:47:00
+697,Kindai UniversityJapanCourses,"31,216",11.6,2%,n/a
+698,Kobe UniversityJapanCourses,"15,885",8.4,6%,33 : 67
+699,Konkuk UniversitySouth KoreaCourses,"26,483",23.5,6%,47:53:00
+700,Kumamoto UniversityJapanCourses,"10,226",7.6,5%,37 : 63
+701,Kyungpook National UniversitySouth KoreaCoursesExplore,"27,152",14.4,3%,42:58:00
+702,Kyushu Institute of Technology (Kyutech)JapanCourses,"5,890",12.1,4%,0.520138889
+703,University of LatviaLatviaCourses,"15,100",26.5,3%,68:32:00
+704,Lille 1 University – Science and TechnologyFranceCourses,"19,599",14.5,18%,41:59:00
+705,University of LincolnUnited KingdomCourses,"10,665",18.9,11%,54:46:00
+706,University of LjubljanaSloveniaCourses,"48,821",17.6,4%,60:40:00
+707,University of Marrakech Cadi AyyadMoroccoCourses,"56,060",38.7,1%,46:54:00
+708,Miami UniversityUnited StatesCoursesEnquire,"16,370",20.5,7%,53:47:00
+709,Middlesex UniversityUnited KingdomCoursesEnquire,"17,753",24.7,44%,59:41:00
+710,University of MurciaSpainCoursesExplore,"31,460",15.8,6%,62:38:00
+711,Nagasaki UniversityJapanCourses,"9,137",7.2,4%,36 : 64
+712,University of NairobiKenyaCourses,"72,676",47,1%,40 : 60
+713,National Chengchi UniversityTaiwanCourses,"16,867",18.4,10%,57:43:00
+714,National Chung Cheng UniversityTaiwanCourses,"11,989",22.9,1%,n/a
+715,National Chung Hsing UniversityTaiwanCourses,"15,632",20.3,4%,39 : 61
+716,National Taipei University of TechnologyTaiwanCoursesExplore,"10,227",16.5,3%,25 : 75
+717,National Taiwan Ocean UniversityTaiwanCourses,"8,240",20.9,5%,30 : 70
+718,National University of CórdobaArgentinaCourses,"108,373",38.1,2%,62:38:00
+719,National University of Science and Technology (MISiS)Russian FederationCourses,"4,441",6.7,13%,43:57:00
+720,National University of Sciences and TechnologyPakistanCourses,"9,808",7.8,3%,27 : 73
+721,Niigata UniversityJapanCoursesExplore,"12,460",8.5,3%,37 : 63
+722,Northumbria UniversityUnited KingdomCoursesEnquire,"22,750",19.3,16%,55:45:00
+723,Northwestern Polytechnical UniversityChinaCoursesExplore,"23,056",14.1,3%,25 : 75
+724,Nottingham Trent UniversityUnited KingdomCoursesEnquire,"21,852",17.4,17%,55:45:00
+725,Oakland UniversityUnited StatesCoursesEnquire,"14,584",19.8,2%,60:40:00
+726,Ocean University of ChinaChinaCourses,"36,205",20.6,1%,40 : 60
+727,Ohio University (Main campus)United StatesCoursesEnquire,"22,224",20,9%,50:50:00
+728,Okayama UniversityJapanCourses,"13,035",8.6,3%,38 : 62
+729,Osaka Prefecture UniversityJapanCourses,"8,051",7.5,3%,36 : 64
+730,University of PardubiceCzech RepublicCourses,"10,671",19.8,4%,55:45:00
+731,University of Paris North – Paris 13FranceCourses,"23,026",23.4,22%,60:40:00
+732,University of PatrasGreeceCourses,"29,251",40.9,4%,46:54:00
+733,University of PécsHungaryCoursesExplore,"21,819",15.4,10%,n/a
+734,Polytechnic University of ValenciaSpainCourses,"33,172",13.6,7%,36 : 64
+735,Pontifícia Universidade Católica do ParanáBrazilCourses,"7,741",10.9,2%,0.110416667
+736,Pontifical Catholic University of Rio Grande do Sul (PUCRS)BrazilCourses,"14,797",10.1,0%,50:50:00
+737,Pontifical Catholic University of ValparaísoChileCourses,"13,493",10.4,0%,45:55:00
+738,Prince of Songkla UniversityThailandCourses,"38,274",16.1,1%,69:31:00
+739,Qatar UniversityQatarCourses,"9,583",19,42%,74:26:00
+740,Universidade do Estado do Rio de Janeiro (UERJ)BrazilCourses,"28,757",10.1,0%,46:54:00
+741,Rochester Institute of TechnologyUnited StatesCoursesEnquire,"12,965",13.5,13%,34 : 66
+742,Saitama UniversityJapanCourses,"7,469",11.7,2%,33 : 67
+743,University of SalfordUnited KingdomCoursesEnquire,"16,152",17,25%,51:49:00
+744,"University of Santiago, Chile (USACH)ChileCourses","22,739",23.6,1%,39 : 61
+745,Universidade Estadual Paulista (Unesp)BrazilCourses,"50,594",13,5%,52:48:00
+746,Savitribai Phule Pune UniversityIndiaCourses,"4,858",14.6,3%,25 : 75
+747,University of Science and Technology BeijingChinaCourses,"22,780",15.1,4%,36 : 64
+748,Sejong UniversitySouth KoreaCourses,"11,704",15.5,3%,43:57:00
+749,University of SeoulSouth KoreaCourses,"10,243",19,3%,36 : 64
+750,Shahid Beheshti UniversityIranCourses,"17,800",24.9,1%,52:48:00
+751,Shanghai UniversityChinaCourses,"46,044",17.5,3%,48:52:00
+752,Shantou UniversityChinaCourses,"9,593",13.5,0%,48:52:00
+753,Sheffield Hallam UniversityUnited KingdomCoursesEnquire,"27,477",18.8,15%,53:47:00
+754,Shinshu UniversityJapanCourses,"11,232",9.6,3%,n/a
+755,Showa UniversityJapanCourses,"3,675",2.5,0%,57:43:00
+756,Sichuan UniversityChinaCourses,"65,035",14.5,2%,48:52:00
+757,University of Silesia in KatowicePolandCourses,"32,764",17.3,1%,65:35:00
+758,Slovak University of Technology in BratislavaSlovakiaCourses,"16,400",15.3,2%,31 : 69
+759,Sogang UniversitySouth KoreaCourses,"10,625",24.1,7%,43:57:00
+760,Sophia UniversityJapanCoursesExplore,"12,799",24.3,8%,53:47:00
+761,University of South AfricaSouth AfricaCourses,"197,102",108.5,9%,65:35:00
+762,Southern Federal UniversityRussian FederationCourses,"27,556",9,3%,56:44:00
+763,University of Southern MississippiUnited StatesCoursesEnquire,"14,569",18.5,3%,63:37:00
+764,University of Southern QueenslandAustraliaCourses,"13,761",29.2,21%,55:45:00
+765,Suez Canal UniversityEgyptCourses,"16,817",6,0%,65:35:00
+766,Sultan Qaboos UniversityOmanCourses,"7,089",9,3%,50:50:00
+767,Suranaree University of TechnologyThailandCourses,"12,650",32.9,1%,50:50:00
+768,University of SzegedHungaryCourses,"22,684",13.8,9%,58:42:00
+769,Taipei Medical UniversityTaiwanCoursesExplore,"6,001",11.1,6%,58:42:00
+770,Taras Shevchenko National University of KyivUkraineCourses,"22,686",8.2,2%,45:55:00
+771,Technical University of MadridSpainCourses,"41,500",13.8,11%,32 : 68
+772,University of Texas at El PasoUnited StatesCoursesEnquire,"19,123",29,7%,54:46:00
+773,Texas Tech UniversityUnited StatesCoursesEnquire,"29,512",20.9,7%,46:54:00
+774,Tokai UniversityJapanCourses,"29,700",12.7,1%,27 : 73
+775,Tokushima UniversityJapanCourses,"7,519",8.9,3%,34 : 66
+776,Tokyo University of Marine Science and TechnologyJapanCourses,"2,597",11.1,7%,34 : 66
+777,Tokyo University of ScienceJapanCoursesExplore,"20,243",25.7,2%,0.888888889
+778,Tomsk State UniversityRussian FederationCourses,"10,413",9.9,12%,60:40:00
+779,Tottori UniversityJapanCourses,"6,248",8.2,2%,34 : 66
+780,Toyohashi University of Technology (TUT)JapanCourses,"2,153",9.3,9%,0.438194444
+781,Universiti Kebangsaan MalaysiaMalaysiaCourses,"24,227",11.8,12%,62:38:00
+782,Universiti Putra MalaysiaMalaysiaCourses,"23,883",12.2,15%,63:37:00
+783,Universiti Sains MalaysiaMalaysiaCourses,"28,179",14.8,10%,61:39:00
+784,Universiti Teknologi MARAMalaysiaCourses,"69,268",16.8,0%,65:35:00
+785,Ural Federal UniversityRussian FederationCourses,"28,427",10.1,3%,48:52:00
+786,V.N. Karazin Kharkiv National UniversityUkraineCourses,"14,410",9.7,22%,53:47:00
+787,University of VigoSpainCourses,"22,793",19,3%,51:49:00
+788,Vilnius UniversityLithuaniaCourses,"19,019",14.2,4%,65:35:00
+789,Warsaw University of TechnologyPolandCourses,"34,572",14.5,3%,34 : 66
+790,Waseda UniversityJapanCourses,"52,316",16.9,8%,35 : 65
+791,University of West BohemiaCzech RepublicCourses,"15,639",21.5,2%,52:48:00
+792,University of the West of EnglandUnited KingdomCoursesEnquire,"22,525",21.4,15%,53:47:00
+793,West University of TimişoaraRomaniaCourses,"12,933",19,2%,62:38:00
+794,University of WestminsterUnited KingdomCoursesEnquire,"16,609",21,43%,57:43:00
+795,Xidian UniversityChinaCourses,"31,618",16.4,2%,29 : 71
+796,Yeungnam UniversitySouth KoreaCourses,"21,958",15.3,3%,48:52:00
+797,Yıldız Technical UniversityTurkeyCoursesExplore,"31,268",28.7,2%,36 : 64
+798,Yokohama City UniversityJapanCourses,"4,122",3.7,3%,n/a
+799,Yokohama National UniversityJapanCourses,"10,117",12.1,7%,28 : 72
+800,Yuan Ze UniversityTaiwanCourses,"8,663",20.6,4%,43:57:00
