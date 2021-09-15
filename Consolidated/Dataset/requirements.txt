@@ -1,0 +1,17 @@
+matplotlib==3.3.4
+pandas
+numpy
+openpyxl==3.0.7
+streamlit==0.80.0
+streamlit_bokeh_events==0.1.2
+pickle4
+pandas
+
+numpy
+glob2
+
+
+functools
+seaborn
+plotly
+sklearn
