@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
+# In[1]:
 
 
 #np.array( [[scaled_features]].values.reshape(-1, 1)
 
 
-# In[23]:
+# In[3]:
 
 
 import pickle
