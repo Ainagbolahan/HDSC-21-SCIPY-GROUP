@@ -16,7 +16,7 @@ import numpy as np
 import pandas as pd
 
 # loading the trained model
-pickle_in = open('svr_model.pkl', 'rb') 
+pickle_in = open('https://github.com/Ainagbolahan/HDSC-21-SCIPY-GROUP/blob/main/Consolidated/Dataset/svr_model.pkl', 'rb') 
 classifier = pickle.load(pickle_in)
 
 @st.cache()
