@@ -8,7 +8,7 @@ pickle4
 pandas
 numpy
 glob2
-git
+
 seaborn
 plotly
 sklearn
